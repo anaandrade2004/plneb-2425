@@ -28,4 +28,4 @@ O código realiza as seguintes etapas:
    - Constrói uma página HTML que exibe os conceitos e suas descrições de forma organizada.
    - O HTML é salvo no arquivo `dicionario_medico.html`.
 
-Nota: o código apresentado acima não corrige todos os erros, existe um único caso que não funciona. Este é então removido à mão.
+Nota: o código apresentado acima não corrige todos os erros, existe um único caso que não funciona. Este é então removido à mão. ("sulco")
