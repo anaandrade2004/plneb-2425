@@ -1,0 +1,222 @@
+.name {
+    font-size: 30px;
+    color: rgb(11, 98, 11);
+}
+
+.logo {
+    width: 50px;
+    height: auto;
+    border-radius: 10px;
+    transition: transform 0.2s ease-in-out; /* Smooth hover effect */
+    top: 20px;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.logo:hover {
+    transform: scale(1.1); /* Slight zoom effect on hover */
+    cursor: pointer;
+}
+
+.container {
+    text-align: left; /* Centers inline elements like text and images */
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;  /* Aligns image and text vertically */
+    justify-content: center; /* Centers content horizontally (optional) */
+    gap: 20px;  /* Adds spacing between image and text */
+    padding: 80px;
+    margin-bottom: -40px;
+}
+
+.flex-container img {
+    width: 250px; /* Adjust the image size */
+    height: auto;
+    border-radius: 50%; /* Optional: Rounds the corners */
+}
+
+.flex-container .text {
+    max-width: 600px; /* Controls text width */
+    font-size: 18px;
+}
+
+/* Navbar container to align logo and links */
+.navbar {
+    display: flex;
+    align-items: center;  /* Align items vertically */
+    padding: 20px 50px;  /* Same padding as .logo */
+}
+
+/* Navbar menu styles */
+.nav {
+    display: flex;  /* Aligns items in a row */
+    list-style-type: none;
+    margin-left: 780px; /* Space between logo and menu */
+    padding: 0;
+}
+
+.nav li {
+    padding-top: 20px;
+    margin-left: 10px;
+}
+
+.nav a {
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    font-size: 18px;
+    transition: transform 0.2s ease-in-out; /* Smooth hover effect */
+}
+
+.nav a:hover {
+    transform: scale(1.1);  /* Slight zoom effect on hover */
+    cursor: pointer;
+}
+
+/* Styling for the logo and name */
+.logo-name {
+    text-decoration: none;
+    color: black;
+    font-size: 27px;  /* Adjust size as needed */
+    font-weight: bold;  /* Optional for styling */
+    padding-left: 45px;
+    padding-top: 20px;
+    display: block;
+}
+
+.logo-name:hover {
+    text-decoration: none;
+    color: black; /* Prevents color change */
+    transform: scale(1.1);  /* Enlarges the name on hover */
+    cursor: pointer;
+}
+
+.options {
+    display: flex;
+    align-items: center;  /* Aligns image and text vertically */
+    justify-content: center; /* Centers content horizontally (optional) */
+    gap: 20px;  /* Adds spacing between image and text */
+    padding: 5px;
+}
+
+.options li {
+    padding-top: 2px;
+    margin-left: 10px;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.options a {
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+    display: block;
+    font-size: 18px;
+    transition: transform 0.2s ease-in-out; /* Smooth hover effect */
+}
+
+.flex-contac {
+    display: flex;
+    align-items: center;  /* Aligns image and text vertically */
+    justify-content: left; /* Centers content horizontally (optional) */
+    gap: 5px;  /* Adds spacing between image and text */
+    padding: 5px;
+}
+
+.flex-contac img {
+    width: 85px; /* Adjust the image size */
+    height: auto;
+    border-radius: 50%;
+
+}
+
+.contact-intro{
+    text-align: center;
+    text-justify: center;
+}
+
+
+.cv-cntc{
+    display: flex;
+    align-items: center;  /* Aligns image and text vertically */
+    justify-content: center; /* Centers content horizontally (optional) */
+    gap: 20px;  /* Adds spacing between image and text */
+    padding: 5px;
+    list-style-type: none;
+}
+
+
+.cv-cntc a{
+    text-decoration: none;
+    color: black;
+}
+
+.cv-cntc button{
+    background-color: #0c6d1c; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 900px;
+}
+
+.separate{
+    margin-left: 80px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-right: 80px;
+}
+
+.box{
+    border: 2px solid lightgrey; /* Border around the box */
+    padding: 20px; /* Space inside the box */
+    width: 1200px; /* Box width */
+    text-align: left; /* Center the text */
+    background-color: white; /* Background color */
+    border-radius: 40px;
+}   
+
+.box-type{
+    border: 2px solid lightgrey; /* Border around the box */
+    padding: 5px; /* Space inside the box */
+    width: 50px; /* Box width */
+    text-align: center; /* Center the text */
+    background-color: white; /* Background color */
+    border-radius: 10px;
+}
+
+.container-boxes {
+    display: flex; /* Enables flexbox */
+    gap: 10px; /* Adds space between boxes */
+}
+
+.box-type-done{
+    background-color: #0c6d1c; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.redirect {
+    text-decoration: none; /* Remove default underline */
+    color: rgb(33, 151, 47);
+}
+.redirect:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
