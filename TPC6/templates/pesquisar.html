@@ -1,0 +1,54 @@
+{% extends 'layout.html' %}
+
+{% block head %} 
+    <title>{{ title }}</title>
+{% endblock %}
+
+{% block body %} 
+
+<div class="container mt-4">
+    <h2 class="mb-4 text-center">Pesquisa de Conceitos</h2>
+
+    <!-- Formulário de pesquisa -->
+    <form action="/pesquisar" method="GET" class="mb-4">
+        <div class="input-group">
+            <input type="text" class="form-control" id="pesquisa_input" name="input" 
+                   placeholder="Digite uma palavra para pesquisar..." aria-label="Pesquisar" 
+                   required>
+            <button type="submit" class="btn btn-primary">Pesquisar</button>
+        </div>
+    </form>
+
+    {% if pesquisa %}
+        <h4 class="text-center">Resultados para: <span class="text-primary">"{{ pesquisa }}"</span></h4>
+
+        {% if resultados %}
+        <div class="table-responsive">
+            <table class="table table-bordered table-striped mt-3">
+                <thead class="table-dark">
+                    <tr>
+                        <th>Designação</th>
+                        <th>Descrição</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for key, value in resultados.items() %}
+                    <tr>
+                        <td>{{ key | safe }}</td> <!-- Renderiza HTML corretamente -->
+                        <td>{{ value | safe }}</td> <!-- Renderiza HTML corretamente -->
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% else %}
+            <p class="text-center text-danger mt-3">Nenhum conceito encontrado.</p>
+        {% endif %}
+    {% endif %}
+
+    <div class="text-center mt-4">
+        <a href="/" class="btn btn-secondary">Voltar</a>
+    </div>
+</div>
+
+{% endblock %}
