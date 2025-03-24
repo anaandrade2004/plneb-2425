@@ -1,0 +1,24 @@
+{% extends 'layout.html' %}
+
+{% block head %} 
+    <title>{{ title }}</title>
+{% endblock %}
+
+{% block body %} 
+<table id="tabela_conceitos" class="display">
+    <thead>
+        <tr>
+            <th>Designação</th>
+            <th>Descrição</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for designacao, descricao in conceitos %}
+        <tr>
+            <td>{{ designacao }}</td>
+            <td>{{ descricao }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

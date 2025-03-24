@@ -1,0 +1,36 @@
+{% extends 'layout.html' %}
+
+
+{% block head %} 
+<title>{{title}}</title>
+{% endblock%}
+
+
+{% block body %} 
+<form action="/pesquisa" method="GET" class="mb-5"> 
+    <div class="mb-3">
+      <label for="query_input" class="form-label">Query</label>
+      <input type="text" class="form-control" id="query_input" value="{{query}}" name="query">
+    </div>
+    <div class="mb-3">
+        <label for="word_bound_input" class="form-check-label">Word Boundary</label>
+        <input type="checkbox" {% if word_bound == "on" %} checked {% endif %} class="form-check-input" id="word_bound_input" name="word_bound">
+    </div>
+    <div class="mb-3">
+        <label for="case_sensitive_input" class="form-check-label">Case Sensitive</label>
+        <input type="checkbox" {% if case_sensitive == "on" %} checked {% endif %} class="form-check-input" id="case_sensitive_input" name="case_sensitive">
+    </div>
+    <button type="submit" class="btn btn-primary mb-3">Pesquisar</button>
+</form>
+
+<div class="list-group">
+
+    {% for designacao, designacao_bold, descricao_bold in conceitos %}
+        
+        <a href="/conceitos/{{designacao}}" class="list-group-item list-group-item-action" >{{designacao_bold | safe }} - {{descricao_bold | safe }}</a>
+        
+    {% endfor %}
+</div>  
+
+
+{% endblock%}
