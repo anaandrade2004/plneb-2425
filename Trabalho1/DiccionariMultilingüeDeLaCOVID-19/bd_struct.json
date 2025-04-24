@@ -1,0 +1,37 @@
+{
+    "letra": {
+        "num_conceito":{
+            "designação":"designação",
+            "categoria lexical da designação": "n (nom) / n pl (nom plural) / n m (nom masculí) / n m pl (nom masculí plural) / n f (nom femení) / n f pl (nom femení plural) / n m, f (nom masculí i femení) / n m/f (nom masculí o femení) / adj (adjectiu) / v tr (verb transitiu) / v tr/intr (verb transitiu o intransitiu) / v intr (verb intransitiu)",
+            "complementos designação":{
+                "siglas": ["sigla"],
+                "sinónimos absolutos":"sin.",  
+                "sinónimos complementares":["sin. compl."],
+                "denominação comercial": "den. com.",
+                "consultar outra entrada":"veg."
+            },
+            "traduções":{
+                "occità": "oc",
+                "basc": "eu",
+                "gallec": "gl",
+                "castellà": "es",
+                "anglès": "en",
+                "francès": "fr",
+                "portuguès": "pt",
+                "[PT]portuguès de Portugal": "pt [PT]",
+                "[BR]portuguès del Brasil": "pt [BR]",
+                "neerlandè": "nl",
+                "àrab": "ar"
+            },
+            "códigos alternativos":{
+                "símbolo": "sbl",
+                "nome científico": "nc",
+                "número CAS": "CAS"
+            },
+            "áreas temáticas": {
+                "área": "Conceptes generals/Epidemiologia/Etiopatogènia/Diagnòstic/Clínica/Prevenció/Tractament/Principis actius/Entorn social",
+                "descrição": "descrição"
+            },
+            "notas":[]}
+    }
+}
