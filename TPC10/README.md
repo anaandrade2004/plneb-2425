@@ -49,9 +49,9 @@ Este notebook demonstra a utilização do modelo **Word2Vec** da biblioteca **Ge
 
 ## Resultados Esperados
 - Palavras relacionadas a "harry" (como "neville", "hermione") devem ter alta similaridade.
-![Nearest Points Harry](images/nearest_points_harry.png.png)
+![NearestPointsHarry](images/nearest_points_harry.png.png)
 - A comparação entre pares de personagens (ex: "harry" e "hagrid") mostrará valores de similaridade próximos de 0.5, indicando relações moderadas.
-![Harry and Hagrid](images/harry_hagrid.png.png)
+![HarryandHagrid](images/harry_hagrid.png.png)
 - A palavra "dobby" será identificada como a menos relacionada no conjunto ["harry", "dobby", "hagrid"].
 ![Dooby](images/dobby.png)
 
