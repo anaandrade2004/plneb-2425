@@ -1,0 +1,1877 @@
+{
+  "A": {
+    "Acidente isquêmico de transição": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8369586/accident-ischemique-transitoire",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > neurologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Isquemia temporária em uma parte do cérebro, que não causa infarto cerebral e resulta de uma obstrução arterial.",
+      "Notas:": "Os sinais e sintomas de um acidente isquêmico transitório aparecem repentinamente e desaparecem em menos de 24 horas. Pode, por exemplo, ser distúrbios visuais, paresia ou distúrbio da fala. Um acidente isquêmico transitório pode ser um derrame. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "accident ischémique transitoire n. m.",
+        "AIT n. m.",
+        "ischémie cérébrale transitoire n. f.",
+        "ICT n. f."
+      ],
+      "termos_em_contexto": [
+        "mini-accident vasculaire cérébral n. m.",
+        "mini-AVC n. m."
+      ],
+      "ingles": [
+        "transient ischemic attack",
+        "TIA"
+      ],
+      "ingles_associado": [
+        "mini-stroke"
+      ]
+    },
+    "AVC": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8354140/accident-vasculaire-cerebral",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > neurologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Ruptura repentina da circulação sanguínea em uma parte do cérebro, que causa danos cerebrais e resulta da obstrução ou hemorragia arterial.",
+      "Notas:": "O acidente vascular cerebral pode se manifestar por vários sinais e sintomas, como afasia, hemiparisia ou confusão. Essas dificuldades podem ser absorvidas ao longo do tempo ou se tornarem permanentes. O derrame pode ser precedido por um acidente isquêmico transitório. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "accident vasculaire cérébral n. m.",
+        "AVC n. m.",
+        "accident cérébrovasculaire n. m.",
+        "ACV n. m."
+      ],
+      "ingles": [
+        "stroke",
+        "cerebrovascular accident",
+        "CVA"
+      ],
+      "ingles_associado": [
+        "apoplexy"
+      ]
+    },
+    "adenomegalia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26554381/adenomegalie",
+      "dominio": [
+        "medicamento > Anatomopatologia",
+        "medicamento > Hematologia e sorologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Hipertrofia de um ou mais nós linfáticos após uma infecção bacteriana ou viral ou ligados à presença de um tumor.",
+      "Observação :": "Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "adénomégalie n. f."
+      ],
+      "ingles": [
+        "adenomegaly"
+      ]
+    },
+    "albuminúria": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17080139/albuminurie",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > nefrologia e urologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Presença de albumina na urina.",
+      "Notas:": "A albuminúria geralmente reflete um carinho do rim, mas também pode ser um sintoma de pressão alta, diabetes tipo 1, insuficiência cardíaca, infecção do trato urinário ou câncer de bexiga, entre outros. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "albuminurie n. f."
+      ],
+      "ingles": [
+        "albuminuria"
+      ]
+    },
+    "Análise de urina": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17487531/analyse-durine",
+      "dominio": [
+        "medicamento > Exames de laboratório",
+        "medicamento > nefrologia e urologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Conjunto de exames de laboratório para medir o potencial de hidrogênio e o osmoch da urina, bem como detectar a presença de glicose, proteínas, células, eletrólitos, cetonas, sedimentos e bactérias e medir sua concentração.",
+      "Notas:": "A análise da urina possibilita, em particular, detectar diabetes, problema renal, gravidez e infecção do trato urinário. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "analyse d'urine n. f.",
+        "analyse de l'urine n. f.",
+        "analyse des urines n. f.",
+        "analyse urinaire n. f."
+      ],
+      "ingles": [
+        "urinalysis",
+        "uranalysis",
+        "urine analysis",
+        "UA",
+        "analysis of the urine"
+      ]
+    },
+    "anemia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8361678/anemie",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > Hematologia e sorologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Diminuição na concentração de hemoglobina no sangue abaixo dos valores normais.",
+      "Notas:": "Considera -se geralmente que há anemia quando a concentração de hemoglobina é inferior a 13 g/100 ml em homens e 12 g/100 ml em mulheres (11 g/100 ml em mulheres grávidas). A anemia se manifesta em particular por fadiga (difundida ou esforço), palidez da pele e membranas mucosas, fraqueza, distúrbios digestivos, tontura, falta de ar e episódios de taquicardia. A anemia é geralmente o resultado da perda de sangue (por exemplo, lesão ou menstruação), produção insuficiente de eritrócitos saudáveis ​​(por exemplo, deficiência de ferro, ácido fólico ou vitamina B12) ou eliminação excessiva de eritrócitos (reações autoimunes por exemplo). Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "anémie n. f."
+      ],
+      "ingles": [
+        "anemia",
+        "anaemia"
+      ]
+    },
+    "aneurisma": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8359742/anevrisme",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Dilatação localizada da parede de uma artéria, o que leva à formação de um bolso de sangue na jornada do vaso sanguíneo.",
+      "Notas:": "Falaremos, por exemplo, de aneurisma aórtica e aneurisma cerebral, de acordo com sua localização. A ruptura de um aneurisma leva a uma hemorragia, que pode ser fatal. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "anévrisme n. m.",
+        "anévrysme n. m."
+      ],
+      "ingles": [
+        "aneurysm",
+        "aneurism"
+      ]
+    },
+    "angina": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8373494/angine-de-poitrine",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Síndrome causada pela isquemia do miocárdio e caracterizada por dor ou sensação de pressão sob o esterno.",
+      "Notas:": "A dor causada pela angina do peito pode irradiar o pescoço, a mandíbula, os ombros, os membros superiores e as costas. Uma distinção é feita entre angina estável, que ocorre em esforço e que permanece curta, de peito instável, cuja frequência e duração aumentam, que podem anunciar a ocorrência de um infarto do miocárdio. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "angine de poitrine n. f.",
+        "angor n. m.",
+        "sténocardie n. f."
+      ],
+      "ingles": [
+        "angina pectoris",
+        "stenocardia"
+      ]
+    },
+    "apendicectomia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17080000/appendicectomie",
+      "dominio": [
+        "medicamento > cirurgia",
+        "medicamento > Gastroenterologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Ablação do apêndice vermiforme.",
+      "Notas:": "A apendicectomia pode ser realizada por cirurgia efraativa ou por Lapiochurgery. É notavelmente praticado em caso de apendicite. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "appendicectomie n. f."
+      ],
+      "ingles": [
+        "appendicectomy",
+        "appendectomy"
+      ]
+    },
+    "apendicite": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17090956/appendicite",
+      "dominio": [
+        "medicamento > Gastroenterologia",
+        "medicamento > Semiologia e Patologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2019",
+      "Definição:": "Inflamação aguda ou crônica do apêndice vermiforme.",
+      "Notas:": "A apendicite ocorre com mais frequência quando o orifício entre o apêndice vermiforme e o ccum é obstruído (por exemplo, por fezes ou um crescimento da parede do ceco) ou como resultado de uma infecção gastrointestinal ou inflamação do intestino grosso. A apendicite pode evoluir na peritonite ou abscesso do apêndice; É por isso que é necessário tratá -lo rapidamente removendo o apêndice vermiforme. Além da dor aguda, os sintomas mais frequentes da apendicite são febre, náusea, perda de apetite, constipação e diarréia. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "appendicite n. f."
+      ],
+      "ingles": [
+        "appendicitis"
+      ]
+    },
+    "Arthralgia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26553654/arthralgie",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "A dor foi sentida em uma ou mais articulações.",
+      "Notas:": "A artralgia pode ser causada por uma lesão, por distúrbios não inflamatórios, como osteoartrite ou por condições inflamatórias, como artrite ou gota. A Artralgia pode atingir uma única articulação (monoarthralgia), quatro articulações ou menos (oligoarthralgia) ou mais de quatro articulações (poliarthralgia). Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "arthralgie n. f."
+      ],
+      "ingles": [
+        "arthralgia"
+      ]
+    },
+    "Osteoartrite": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8364935/arthrose",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2023",
+      "Definição:": "Origem articular crônica e não inflamatória caracterizada pela deterioração das cartilagens e, geralmente, pela presença de osteófitos.",
+      "Notas:": "Envelhecimento, hereditariedade e obesidade são as principais causas da osteoartrite. É mais frequentemente manifestado pela rigidez, estalos e uma redução na amplitude do movimento da articulação afetada, bem como pela dor. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "arthrose n. f.",
+        "ostéoarthrose n. f.",
+        "OA n. f."
+      ],
+      "termos_em_contexto": [
+        "ostéoarthrite n. f.",
+        "OA n. f."
+      ],
+      "ingles": [
+        "osteoarthritis",
+        "OA",
+        "osteoarthrosis",
+        "OA",
+        "arthrosis",
+        "degenerative joint disease",
+        "degenerative arthritis"
+      ]
+    },
+    "asma": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8392587/asthme",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > Pulmonologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2020",
+      "Definição:": "A síndrome caracterizada por episódios de obstrução do trato respiratório inferior, que se manifesta pelo acesso de tosse acompanhado por bradipnea expiratória e assobiando a respiração ligada à contração espasmódica, hipersecretion e edema de brônquios.",
+      "Notas:": "A asma é mais frequentemente declarada na forma de alergia ou após uma infecção do trato respiratório. Os principais gatilhos são agentes irritantes domésticos, são alérgenos de ácaros, baratas, gatos e cães, bem como fungos microscópicos. Geralmente, ataques agudos de asma são acompanhados por um sentimento de pânico. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "asthme n. m.",
+        "asthme vrai n. m.",
+        "asthme bronchique n. m."
+      ],
+      "ingles": [
+        "asthma",
+        "bronchial asthma",
+        "true asthma"
+      ]
+    },
+    "atrofia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17022908/atrophie",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Diminuiu o volume de um órgão ou um tecido, geralmente devido à redução no tamanho das células que o compõem ou à redução de seu número.",
+      "Notas:": "A atrofia pode ser fisiológica (por exemplo, atrofia do timo com puberdade) ou patológica (por exemplo, amiotrofia em uma pessoa com paraplegia). Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "atrophie n. f."
+      ],
+      "ingles": [
+        "atrophy"
+      ]
+    }
+  },
+  "B": {
+    "Biópsia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8410375/biopsie",
+      "dominio": [
+        "medicamento > cirurgia",
+        "medicamento > oncologia",
+        "medicamento > Exames de laboratório"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Amostra in vivo de um fragmento de órgão ou tecido, com vistas a um exame microscópico ou uma análise bioquímica.",
+      "Notas:": "A biópsia visa, em particular, diagnosticar uma doença que afeta o tecido ou o órgão alvo. Também torna possível obter detalhes, se necessário, detalhes sobre a evolução de uma doença. A biópsia é comumente usada para estabelecer um diagnóstico de câncer. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "biopsie n. f."
+      ],
+      "ingles": [
+        "biopsy"
+      ]
+    },
+    "bronquiolite": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17025315/bronchiolite",
+      "dominio": [
+        "medicamento > Pulmonologia",
+        "medicamento > pediatria"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Inflamação aguda de bronquíolos, de origem viral, resultando em desconforto respiratório e na maioria das vezes em bebês.",
+      "Notas:": "Os principais sinais de bronquiolite são a aceleração da frequência respiratória, impressão intercostal, expiração de assobios e tosse seca. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "bronchiolite n. f."
+      ],
+      "ingles": [
+        "bronchiolitis"
+      ]
+    },
+    "bronquite": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8449595/bronchite",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Inflamação aguda ou crônica da mucosa dos brônquios, causando hipersecreção de muco e se manifestando em particular por uma tosse gordurosa e quinteusa, uma respiração curta e desconforto geral.",
+      "Notas:": "Às vezes, a bronquite é acompanhada por sinusite, faringite ou laringite. Pode ser de origem infecciosa, alérgica, parasita ou tóxica. A bronquite deve ser distinguida da bronquiolite, que é uma inflamação de bronquíolos. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "bronchite n. f."
+      ],
+      "ingles": [
+        "bronchitis"
+      ]
+    },
+    "Broncopnemopatia obstrutiva crônica": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8411805/bronchopneumopathie-chronique-obstructive",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > Pulmonologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2018",
+      "Definição:": "Conjunto de doenças respiratórias que afetam os brônquios e os pulmões, que podem coexistir na mesma pessoa, que determinam nela uma insuficiência ventilatória obstrutiva.",
+      "Notas:": "A broncopnemopatia crônica crônica é uma condição de desenvolvimento lenta, cujos sintomas geralmente aparecem apenas para quarentena ou cinquenta anos, e uma das principais causas das quais é fumar. Ela toca os homens tanto quanto as mulheres. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "bronchopneumopathie chronique obstructive n. f.",
+        "BPCO n. f.",
+        "maladie pulmonaire obstructive chronique n. f.",
+        "MPOC n. f."
+      ],
+      "ingles": [
+        "chronic obstructive pulmonary disease",
+        "COPD",
+        "chronic obstructive lung disease",
+        "chronic obstructive bronchopneumopathy"
+      ]
+    },
+    "Broncoscópio": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26558650/bronchoscope",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "O endoscópio, na maioria das vezes flexível, usado para examinar os brônquios e a traquéia durante uma broncoscopia.",
+      "Notas:": "O broncoscópio é introduzido por oral, nasal ou por uma abertura traqueal (por exemplo, após uma traqueotomia). Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "bronchoscope n. m."
+      ],
+      "ingles": [
+        "bronchoscope"
+      ]
+    },
+    "Broncoscopia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8449583/bronchoscopie",
+      "dominio": [],
+      "autor": "Escritório de Quebec do French Language Royal College of Doctors and Surgeons of Canada",
+      "data_ultima_atualizacao": "2016",
+      "Definição:": "Exploração visual dos bronchi e da traquéia realizada por meio de um broncoscópio.",
+      "Notas:": "A broncoscopia é indicada para detectar e extrair um corpo estranho do trato respiratório inferior, realizar drenagem ou amostra e tratar certas doenças brônquicas ou pulmonares. Esta folha faz parte do vocabulário da medicina e do vocabulário da oncologia.",
+      "termos_privilegiados": [
+        "bronchoscopie n. f.",
+        "endoscopie bronchique n. f."
+      ],
+      "ingles": [
+        "bronchoscopy"
+      ]
+    }
+  },
+  "C": {
+    "coágulo sanguíneo": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029824/caillot-sanguin",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Massa viscosa semi-sólida formada pela fibrina durante a coagulação do sangue.",
+      "Notas:": "O coágulo sanguíneo é geralmente formado após uma lesão vascular. Seu treinamento permite que você evite hemorragia. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "caillot sanguin n. m.",
+        "caillot de sang n. m.",
+        "caillot n. m."
+      ],
+      "ingles": [
+        "blood clot",
+        "clot"
+      ]
+    },
+    "cálculo": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8449126/calcul",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Concretion formando em um órgão oco, uma glândula ou um canal e que pode ser a causa de uma obstrução.",
+      "Notas:": "Um cálculo é formado pelo acúmulo de substâncias orgânicas e sais minerais. Falaremos, por exemplo, de cálculo salivar, cálculo biliar ou cálculo urinário. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "calcul n. m."
+      ],
+      "ingles": [
+        "calculus"
+      ]
+    },
+    "pedra no rim": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8375530/calcul-renal",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Cálculo urinário formando -se em um rim.",
+      "Notas:": "Geralmente, as pedras renais são eliminadas pela micção sem causar sintomas. Alguns podem, no entanto, causar obstrução do ureter e causar dor ou sangramento. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "calcul rénal n. m.",
+        "calcul néphrétique n. m."
+      ],
+      "termos_em_contexto": [
+        "pierre au rein n. f.",
+        "néphrolithe n. f."
+      ],
+      "ingles": [
+        "renal calculus",
+        "kidney stone",
+        "nephrolith",
+        "nephritic calculus"
+      ]
+    },
+    "cardiomegalia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8449013/cardiomegalie",
+      "dominio": [
+        "medicamento > Anatomopatologia",
+        "medicamento > cardiologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Aumento anormal no volume do miocárdio.",
+      "Notas:": "A cardiomegalia não é uma doença em si; Este é um sinal que eleva a hipótese de um problema de saúde do coração. A pressão alta ou a coronaropatia pode causar cardiomegalia. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "cardiomégalie n. f.",
+        "hypertrophie cardiaque n. f."
+      ],
+      "ingles": [
+        "cardiomegaly",
+        "megalocardia"
+      ]
+    },
+    "catarata": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8359547/cataracte",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Condição ocular congênita ou adquirida caracterizada por uma opacificação da lente e/ou do cristalóide.",
+      "Notas:": "A catarata geralmente ocorre em pessoas com mais de 65 anos e é acompanhada por uma diminuição gradual da acuidade visual, geralmente ao longo de vários anos, que pode ir até a cegueira. Uma catarata avançada é facilmente reconhecida pelo fato de que a cor da pupila vai de preto a branca leitosa ou cinza. Geralmente, podemos remediar parcial ou completamente a catarata realizando cirurgia: a lente opacificada é removida e substituída por uma lente artificial. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "cataracte n. f."
+      ],
+      "ingles": [
+        "cataract"
+      ]
+    },
+    "colesterol": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029895/cholesterol",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "A substância lipídica de alimentos ou sintetizada pelo fígado, que entra na constituição da membrana plasmática e que intervém na formação de hormônios esteróides e ácidos biliares.",
+      "Observação :": "Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "cholestérol n. m."
+      ],
+      "termos_em_contexto": [
+        "cholestérine n. f."
+      ],
+      "ingles": [
+        "cholesterol",
+        "cholesterin"
+      ]
+    },
+    "Colesterolemia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8445883/cholesterolemie",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Nível de colesterol no sangue.",
+      "Notas:": "A colesterolemia é um indicador para avaliar o risco de aterosclerose. Quando a colesterolemia excede aproximadamente 2 gramas por litro, falamos de hipercolesterolemia, mas esse valor de referência pode variar um pouco, dependendo de diferentes fatores, como sexo e idade. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "cholestérolémie n. f.",
+        "cholestérinémie n. f."
+      ],
+      "termos_em_contexto": [
+        "cholestérémie n. f."
+      ],
+      "ingles": [
+        "cholesterolemia",
+        "cholesterolaemia",
+        "cholesteremia",
+        "cholesteraemia",
+        "cholesterinemia"
+      ]
+    },
+    "cólica": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029766/colique",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "A dor viva geralmente ocorre na forma de acesso intercalada com períodos solitários e originária em um órgão abdominal.",
+      "Notas:": "Existem vários tipos de cólica, dependendo dos órgãos que os causam, por exemplo, cólica hepática, cólica nefrética ou cólica intestinal. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "colique n. f."
+      ],
+      "ingles": [
+        "colic"
+      ]
+    },
+    "cólica hepática": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8448521/colique-hepatique",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "A dor continua até o hipocondo direito, irradiando para o ombro epigastral e o direito, causado pela presença de cálculos na vesícula biliar ou nos ductos biliares.",
+      "Observação :": "Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "colique hépatique n. f.",
+        "colique biliaire n. f."
+      ],
+      "ingles": [
+        "biliary colic"
+      ]
+    },
+    "Cólica intestinal": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17581621/colique-intestinale",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Dor abdominal causada por espasmos musculares do intestino, geralmente causados ​​pela oclusão intestinal.",
+      "Observação :": "Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "colique intestinale n. f.",
+        "colique n. f."
+      ],
+      "ingles": [
+        "intestinal colic"
+      ]
+    },
+    "cólica nefrética": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8448520/colique-nephretique",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "A dor viva foi sentida na região lombar, irradiando em direção à bexiga e aos órgãos genitais externos, mais frequentemente causados ​​pela obstrução dos ureteres por um cálculo urinário ou um coágulo sanguíneo.",
+      "Notas:": "A cólica nefrética geralmente se manifesta em um lado do corpo, afetado pela obstrução. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "colique néphrétique n. f.",
+        "colique rénale n. f."
+      ],
+      "ingles": [
+        "renal colic"
+      ]
+    },
+    "concussão": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029720/commotion-cerebrale",
+      "dominio": [
+        "medicamento > neurologia",
+        "medicamento > medicina esportiva"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2019",
+      "Definição:": "Shakening the Brain causado por um choque violento, direto ou indireto, o que leva a uma abolição temporária ou permanente das funções cerebrais, sem lesão orgânica visível.",
+      "Notas:": "A concussão ocorre quando o choque causa um movimento repentino da cabeça e o cérebro atinge as paredes. Entre seus possíveis sinais e sintomas estão a perda de consciência, confusão, vômito, visão, equilíbrio e problemas de memória, aumento da sensibilidade à luz e ruído, além de diminuir o pulso e a respiração. Esta folha faz parte do vocabulário uma linguagem saudável: vocabulário de enfermagem e vocabulário da medicina.",
+      "termos_privilegiados": [
+        "commotion cérébrale n. f."
+      ],
+      "ingles": [
+        "brain concussion",
+        "concussion of the brain",
+        "cerebral concussion",
+        "concussion"
+      ]
+    },
+    "contratilidade ventricular": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17011013/contractilite-ventriculaire",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Propriedade que os ventrículos cardíacos precisam contrair.",
+      "Observação :": "Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "contractilité ventriculaire n. f."
+      ],
+      "ingles": [
+        "ventricular contractility"
+      ]
+    },
+    "contusão": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029651/contusion",
+      "dominio": [
+        "medicamento > trauma",
+        "medicamento > Hematologia e sorologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Lesão produzida por um golpe ou choque violento, sem que haja rasgo da pele ou fratura.",
+      "Notas:": "Uma contusão pode causar dor localizada no ponto de impacto, hematomas ou hematoma. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "contusion n. f."
+      ],
+      "ingles": [
+        "contusion"
+      ]
+    },
+    "cistite": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8358783/cystite",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Inflamação aguda ou crônica da bexiga urinária, geralmente de origem bacteriana.",
+      "Notas:": "A cistite geralmente se manifesta pela dor durante a micção, Pollakiuria e Pyuria. Na grande maioria dos casos, ocorre quando as bactérias voltam para a bexiga, pela uretra. A cistite é muito mais frequente em mulheres do que nos homens, a uretra de ser mais curta. Riscos de cistite não tratada em evolução na pielonefrite. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "cystite n. f."
+      ],
+      "ingles": [
+        "cystitis"
+      ]
+    }
+  },
+  "D": {
+    "degeneração": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029430/degenerescence",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Alteração patológica progressiva de estruturas normais de uma célula, tecido ou órgão.",
+      "Notas:": "A degeneração pode levar à perda das capacidades funcionais de uma célula ou tecido e pode levar ao desaparecimento deles. Degeneração macular e esteatose hepática são exemplos de degeneração. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "dégénérescence n. f."
+      ],
+      "ingles": [
+        "degeneration"
+      ]
+    },
+    "dermatite": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17048395/dermatite",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Inflamação da pele.",
+      "Notas:": "A maioria dos trabalhos de referência em medicina distingue a dermatite, definida como inflamação e eczema, definida como dermatose; O termo eczema é, no entanto, frequentemente usado no sentido de \"dermatite\" em documentação especializada. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "dermatite n. f.",
+        "dermite n. f."
+      ],
+      "ingles": [
+        "dermatitis"
+      ]
+    },
+    "diverticulum": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17024850/diverticule",
+      "dominio": [
+        "medicamento > anatomia",
+        "medicamento > Semiologia e Patologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Cavidade natural ou patológica, na forma de uma bolsa, formando -se na parede de um órgão oco e se comunicando com ele.",
+      "Notas:": "As divergículas patológicas são formadas com mais frequência no cólon, mas também podem ser observadas na bexiga, na uretra e no esôfago, entre outras. Para designar a inflamação de um ou mais desvios, o termo diverticulite é usado. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "diverticule n. m."
+      ],
+      "ingles": [
+        "diverticulum"
+      ]
+    },
+    "diverticulite": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8443681/diverticulite",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Inflamação de uma ou mais diverticula.",
+      "Observação :": "Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "diverticulite n. f."
+      ],
+      "ingles": [
+        "diverticulitis"
+      ]
+    },
+    "diverticulose": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17024851/diverticulose",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Afeto caracterizado pela presença de vários divertículos patológicos em um órgão oco.",
+      "Observação :": "Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "diverticulose n. f."
+      ],
+      "ingles": [
+        "diverticulosis"
+      ]
+    },
+    "drenagem": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029256/drainage",
+      "dominio": [],
+      "autor": "Escritório de Quebec do French Language Royal College of Doctors and Surgeons of Canada",
+      "data_ultima_atualizacao": "2014",
+      "Definição:": "Intervenção destinada a evacuar líquidos sépticos ou assépticos em retenção em uma organização.",
+      "Notas:": "A drenagem pode ser feita através de um tubo, um pavio de gaze, uma lâmina de borracha ou qualquer outro meio, impedindo temporariamente o fechamento completo do orifício de saída. Esta folha faz parte do vocabulário da cirurgia, vocabulário a uma linguagem de saúde: vocabulário de enfermagem e vocabulário da medicina.",
+      "termos_privilegiados": [
+        "drainage n. m."
+      ],
+      "ingles": [
+        "drainage"
+      ]
+    },
+    "Disfagia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8877521/dysphagie",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > Otorrhinolaryngology",
+        "medicamento > Gastroenterologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Transtorno de engolir o que resulta em desconforto durante a passagem dos alimentos, da boca ao estômago.",
+      "Notas:": "As manifestações da disfagia são múltiplas, variando, por exemplo, de uma sensação de bloqueio na garganta até a impossibilidade de engolir sua saliva. A disfagia pode ocorrer em qualquer idade, mas é frequentemente observada em idosos. Em particular, pode ser causado por uma doença neurológica, por exemplo, um derrame ou mesmo por um tumor. Não deve ser disfagia confundida e odofagia, este último consistindo de uma sensação de dor durante a deglutição. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "dysphagie n. f.",
+        "trouble de la déglutition n. m."
+      ],
+      "ingles": [
+        "dysphagia"
+      ]
+    },
+    "Dyspnea": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8871215/dyspnee",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > Pulmonologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2020",
+      "Definição:": "Dificuldade em respirar acompanhada por um sentimento de desconforto e opressão, o que resulta em um aumento na frequência ou amplitude dos movimentos respiratórios.",
+      "Notas:": "A dispnéia pode ser normal, após um esforço prolongado ou de alta altitude, mas também pode ser um sinal de uma doença broncopulmonar, otorrinolaringológica, neurológica ou cardíaca, por exemplo. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "dyspnée n. f.",
+        "essoufflement n. m."
+      ],
+      "termos_em_contexto": [
+        "anhélation n. f."
+      ],
+      "ingles": [
+        "dyspnea",
+        "dyspnoea",
+        "shortness of breath",
+        "breathlessness",
+        "air hunger"
+      ]
+    },
+    "Disúria": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17024807/dysurie",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Transtorno da micitação caracterizado pela dor no momento da micção e, geralmente, com uma dificuldade em começar a urinar.",
+      "Notas:": "A disúria é mais frequentemente causada por uma infecção do trato urinário ou do sistema genital, por exemplo, cistite, pielonefrite, cervicite ou uretrite. A dor sentida ao urinar é mais frequentemente descrita como uma sensação de queimaduras intensas. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "dysurie n. f."
+      ],
+      "ingles": [
+        "dysuria"
+      ]
+    }
+  },
+  "E": {
+    "eczema": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029180/eczema",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Dermatose inflamatória caracterizada em sua fase aguda e pruritica por eritema e edema, bem como, muitas vezes, pela formação de vesículas exsudativas cujos arranhões levam a uma desicenificação e um design da pele.",
+      "Notas:": "A hipersensibilidade imune e o contato com a pele com agentes alergênicos ou irritantes são frequentemente a causa do eczema. A dermatite atópica, a forma mais comum da doença, afeta principalmente pessoas com suscetibilidade genética a essa condição. A maioria dos trabalhos de referência em medicina distingue eczema, definida como dermatose e dermatite, definida como inflamação; O termo dermatite é, no entanto, frequentemente usado no sentido de \"eczema\" em documentação especializada. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "eczéma n. m.",
+        "exéma n. m."
+      ],
+      "ingles": [
+        "eczema"
+      ]
+    },
+    "Embolia pulmonar": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8387613/embolie-pulmonaire",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Obstrução de um ou mais ramos do tronco pulmonar por um coágulo sanguíneo.",
+      "Notas:": "O coágulo sanguíneo vem dos membros inferiores, da bacia ou do abdômen e migra pela veia inferior. A embolia pulmonar pode, em particular, causar infarto pulmonar, insuficiência cardíaca direita ou aumento da pressão arterial pulmonar. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "embolie pulmonaire n. f."
+      ],
+      "ingles": [
+        "pulmonary embolism",
+        "PE"
+      ]
+    },
+    "entorse": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8871216/entorse",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2019",
+      "Definição:": "Lesão traumática de uma articulação devido à sua torção repentina e causando um alongamento ou um rasgo de um ligamento ou fibras musculares, sem deslocamento de superfícies articulares ou deslocamento.",
+      "Observação :": "Esta folha faz parte do vocabulário uma linguagem saudável: vocabulário de enfermagem e vocabulário da medicina.",
+      "termos_privilegiados": [
+        "entorse n. f."
+      ],
+      "termos_em_contexto": [
+        "foulure n. f."
+      ],
+      "ingles": [
+        "sprain"
+      ]
+    },
+    "efusão": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8386884/epanchement",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Presença de uma quantidade anormal de fluido em uma cavidade ou tecido natural.",
+      "Notas:": "Qualquer gás ou líquido (pus, sangue, linfa ou líquido sinovial, por exemplo) presente no corpo, pode formar um derrame. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "épanchement n. m."
+      ],
+      "ingles": [
+        "effusion"
+      ]
+    },
+    "Efusão intra -articular": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26558665/epanchement-intraarticulaire",
+      "dominio": [
+        "medicamento > Reumatologia",
+        "medicamento > Semiologia e Patologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Efusão dentro de uma articulação.",
+      "Notas:": "Um derrame de líquido ou sangue sinovial, por exemplo, pode se formar dentro de uma articulação após o trauma ou operação. É também um sinal frequente de certas formas de osteoartrite e artrite. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "épanchement intraarticulaire n. m.",
+        "épanchement articulaire n. m."
+      ],
+      "ingles": [
+        "joint effusion",
+        "intra-articular effusion",
+        "articular effusion"
+      ]
+    },
+    "Efusão pericárdica": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26558659/epanchement-pericardique",
+      "dominio": [
+        "medicamento > cardiologia",
+        "medicamento > Semiologia e Patologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Efusão na cavidade pericárdica.",
+      "Notas:": "O derrame pericárdico geralmente é fluido, mas pode ser excepcionalmente o gás. Um acúmulo de mais de 50 ml de líquido na cavidade pericárdica é geralmente considerado patológico. Efusão pericárdica é um sinal frequente de pericardite. Pode causar um carimbo cardíaco. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "épanchement péricardique n. m."
+      ],
+      "ingles": [
+        "pericardial effusion"
+      ]
+    },
+    "Efusão pleural": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8386883/epanchement-pleural",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > Pulmonologia"
+      ],
+      "autor": "Escritório de Quebec do French Language Royal College of Doctors and Surgeons of Canada",
+      "data_ultima_atualizacao": "2019",
+      "Definição:": "Efusão na cavidade pleural.",
+      "Observação :": "Esta folha faz parte do vocabulário da medicina e do vocabulário da oncologia.",
+      "termos_privilegiados": [
+        "épanchement pleural n. m."
+      ],
+      "ingles": [
+        "pleural effusion"
+      ]
+    },
+    "eritema": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8450716/erytheme",
+      "dominio": [
+        "medicamento > dermatologia",
+        "medicamento > Semiologia e Patologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2018",
+      "Definição:": "A pele de vermelhidão, localizada ou generalizada, causada por vasodilatação e desaparecimento na vitripultamento.",
+      "Observação :": "Esta folha faz parte do vocabulário uma linguagem saudável: vocabulário de enfermagem e vocabulário da medicina.",
+      "termos_privilegiados": [
+        "érythème n. m."
+      ],
+      "termos_em_contexto": [
+        "rougeur n. f."
+      ],
+      "ingles": [
+        "erythema"
+      ]
+    },
+    "Exame citobacteriológico da urina": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8373612/examen-cytobacteriologique-des-urines",
+      "dominio": [
+        "medicamento > Exames de laboratório",
+        "medicamento > nefrologia e urologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "O exame laboratorial destinado a diagnosticar uma infecção do trato urinário, identificando, na maioria das vezes sob o microscópio, as bactérias presentes em uma amostra de urina.",
+      "Notas:": "O exame citobacteriológico da urina é geralmente prescrito quando os resultados de uma análise de urina revelam a presença de uma potencial infecção do trato urinário (por exemplo, cistite ou pielonefrite), ou quando uma pessoa tem sintomas como uma sensação de dor ou queimação durante a micção e um desejo frequente, ou sinais como urina preocupada ou urina. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "examen cytobactériologique des urines n. m.",
+        "ECBU n. m.",
+        "examen cytobactériologique urinaire n. m.",
+        "ECBU n. m."
+      ],
+      "ingles": [
+        "urine culture"
+      ]
+    },
+    "expectoração": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8442868/expectoration",
+      "dominio": [
+        "medicamento > fisiologia",
+        "medicamento > Pulmonologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Expulsão pela boca das secreções das vias aéreas.",
+      "Notas:": "O produto da expectativa é chamado Spit. No entanto, por metonímia, o termo expectoração é usado para designar o processo fisiológico de despejo de secreções e o produto expulso. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "expectoration n. f."
+      ],
+      "ingles": [
+        "expectoration"
+      ]
+    },
+    "EXTRASSTOLE": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8410312/extrasystole",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Contração prematura do miocárdio, na maioria das vezes benigna, que altera a regularidade da freqüência cardíaca e que ocorre quando o sinal elétrico que desencadeia contrações cardíacas ocorre em outros lugares que no nó sinusal.",
+      "Notas:": "Podemos distinguir a extrástica ventricular, a extrástica atrial e a extrystole juncional, dependendo se o sinal elétrico que desencadeia a contração ocorre nos ventrículos cardíacos, nos átrios ou na junção dessas cavidades. Os sistemas de extratos podem ocorrer isoladamente ou repetidamente. Eles geralmente passam despercebidos, mas podem causar palpitações cardíacas, impressão de parada cardíaca e leve dor no peito. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "extrasystole n. f.",
+        "ES n. f."
+      ],
+      "ingles": [
+        "extrasystole",
+        "ES",
+        "premature systole",
+        "premature beat"
+      ]
+    }
+  },
+  "F": {
+    "fratura": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17028733/fracture",
+      "dominio": [
+        "medicamento > ortopedia",
+        "medicamento > trauma"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2019",
+      "Definição:": "Lesão que consiste em uma divisão óssea anormal, completa ou parcial.",
+      "Observação :": "Esta folha faz parte do vocabulário uma linguagem saudável: vocabulário de enfermagem e vocabulário da medicina.",
+      "termos_privilegiados": [
+        "fracture n. f."
+      ],
+      "ingles": [
+        "fracture",
+        "Fx"
+      ]
+    },
+    "Fratura spiroides": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8447794/fracture-spiroide",
+      "dominio": [
+        "medicamento > trauma",
+        "medicamento > ortopedia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Fratura formando uma linha de ruptura helicoidal, gerada por um movimento de torção.",
+      "Notas:": "A fratura spiroide geralmente ocorre na diafise. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "fracture spiroïde n. f.",
+        "fracture spirale n. f.",
+        "fracture spiralée n. f."
+      ],
+      "ingles": [
+        "spiral fracture"
+      ]
+    },
+    "freqüência cardíaca": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8371098/frequence-cardiaque",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Número de contrações cardíacas por unidade de tempo, geralmente por minuto.",
+      "Notas:": "A frequência cardíaca varia constantemente durante um dia, dependendo de uma pessoa em repouso ou realiza atividade física (intensa ou não). Também pode aumentar devido a diferentes fatores, como o consumo de estimulantes (por exemplo, café ou drogas), a ação de diferentes hormônios (por exemplo, adrenalina ou noradrenalina) ou estresse. Uma frequência cardíaca anormalmente lenta é um sinal de bradicardia; Uma frequência cardíaca anormalmente rápida de taquicardia. A frequência cardíaca deve ser distinguida da frequência cardíaca, que corresponde à maneira pela qual as contrações cardíacas se seguem. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "fréquence cardiaque n. f.",
+        "FC n. f."
+      ],
+      "ingles": [
+        "heart rate",
+        "HR"
+      ]
+    },
+    "fricção pleural": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8435745/frottement-pleural",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > Pulmonologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Ruído superficial perceptível à ausculta e pontuado pela respiração, produzido pelo contato da folha visceral e da folha parietal.",
+      "Notas:": "O atrito pleural é geralmente percebido no início ou no limite superior de um pouco abundante de derrame pleural. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "frottement pleural n. m."
+      ],
+      "ingles": [
+        "pleural friction rub",
+        "pleural rub"
+      ]
+    }
+  },
+  "G": {
+    "gastrite": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26554570/gastrite",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Inflamação aguda ou crônica da mucosa estomacal.",
+      "Notas:": "A gastrite pode, em particular, ser causada por estresse significativo, alergias, agentes infecciosos ou por consumo muito alto de agentes irritantes, como álcool e café. Geralmente se manifesta por pirose, frequentemente exacerbada após fazer uma refeição. Às vezes, é acompanhado por náusea e vômito, inchaço e anorexia, entre outros. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "gastrite n. f."
+      ],
+      "ingles": [
+        "gastritis"
+      ]
+    },
+    "bócio": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8447632/goitre",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Hipertrofia difusa ou localizada da glândula tireóide que pode causar uma deformação da parte anterior do pescoço.",
+      "Notas:": "A falta de iodo, predisposição genética e gravidez são fatores que promovem o bócio. Este último não afeta necessariamente a operação da glândula tireóide. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "goitre n. m."
+      ],
+      "ingles": [
+        "goiter",
+        "goitre"
+      ]
+    }
+  },
+  "H": {
+    "hematoma": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8386725/hematome",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2019",
+      "Definição:": "A coleta de sangue circunscrita em um tecido.",
+      "Observação :": "Esta folha faz parte do vocabulário uma linguagem saudável: vocabulário de enfermagem e vocabulário da medicina.",
+      "termos_privilegiados": [
+        "hématome n. m."
+      ],
+      "ingles": [
+        "hematoma",
+        "haematoma"
+      ]
+    },
+    "Hematoma subdural": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8416690/hematome-sous-dural",
+      "dominio": [
+        "medicamento > trauma",
+        "medicamento > neurologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Hematoma intracraniano de origem traumática que se desenvolve entre o dura e o aracnóide.",
+      "Notas:": "Podemos distinguir o hematoma subdural agudo, cujos sintomas graves aparecem rapidamente após um trauma craniano significativo, do hematoma subdural crônico, que pode se manifestar gradualmente, semanas após o trauma frequentemente benigno. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "hématome sous-dural n. m."
+      ],
+      "ingles": [
+        "subdural hematoma",
+        "SDH"
+      ]
+    },
+    "Hematúria": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17024486/hematurie",
+      "dominio": [
+        "medicamento > Fisiopatologia",
+        "medicamento > nefrologia e urologia"
+      ],
+      "autor": "Escritório de Quebec do French Language Royal College of Doctors and Surgeons of Canada",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Programa de eritrócitos anormais na urina.",
+      "Notas:": "Diz -se que a hematúria é inicial quando o sangue aparece na urina no início da micção; terminal quando aparece no final da micção; e total quando aparece em toda a micção. A hematúria não é uma doença, mas um sinal cujas causas mais frequentes são cistite, pielonefrite, prostatite, cálculos (urinária e renal), um tumor maligno do aparelho genitarinarial (bexiga, rins, próstata, ureter) ou trauma (choque). Falaremos mais especificamente de hematúria macroscópica quando a hematúria for detectável a olho nu por causa do sangue que as cores urina em rosa, vermelho ou marrom e hematúria microscópica quando a hematúria não é detectável com os olhos nus e que é necessário realizar uma análise de urina para detectar a presença de eritrocianos. Esta folha faz parte do vocabulário da medicina e do vocabulário da oncologia.",
+      "termos_privilegiados": [
+        "hématurie n. f."
+      ],
+      "ingles": [
+        "hematuria",
+        "haematuria"
+      ]
+    },
+    "hepatomegalia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8393020/hepatomegalie",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Aumento anormal no volume do fígado.",
+      "Notas:": "Pode ser um aumento no volume de todo o órgão ou parte do fígado (um lobo, por exemplo). A hepatomegalia pode, em particular, ser causada pelo consumo excessivo de álcool ou alimentos gordurosos, hemocromatose, insuficiência cardíaca ou hepatite. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "hépatomégalie n. f.",
+        "hypertrophie hépatique n. f."
+      ],
+      "ingles": [
+        "hepatomegaly",
+        "liver hypertrophy"
+      ]
+    },
+    "Hiperóxia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8375058/hyperoxie",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Estado patológico caracterizado por um aumento na quantidade de dioxigênio nos tecidos de um órgão ou organismo.",
+      "Notas:": "Na terapêutica, a hiperóxia pode surgir da administração de dioxigênio durante anestesia geral, ressuscitação ou oxigenoterapia. A hiperóxia é geralmente a conseqüência da hiperoxemia. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "hyperoxie n. f."
+      ],
+      "ingles": [
+        "hyperoxia"
+      ]
+    },
+    "hipertrofia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26553189/hypertrophie",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Aumentou o volume de um órgão ou tecido, geralmente devido à dilatação das células que o compõem.",
+      "Notas:": "Hepatomegalia, adenomegalia e esplenomegalia correspondem a hipertrofias orgânicas. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "hypertrophie n. f."
+      ],
+      "ingles": [
+        "hypertrophy"
+      ]
+    },
+    "hipóxia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8375062/hypoxie",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Estado patológico caracterizado por uma diminuição na quantidade de dioxigênio nos tecidos de um órgão ou organismo.",
+      "Notas:": "A hipóxia é uma conseqüência frequente da hipoxemia. Também pode resultar de um distúrbio de circulação sanguínea (por exemplo, em caso de insuficiência cardíaca), a obstrução parcial ou completa de uma ou mais artérias ou a incapacidade das células dos tecidos de usar dioxigênio. Para designar hipóxia muito grave, o termo anóxia é usado. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "hypoxie n. f.",
+        "hypoxie tissulaire n. f."
+      ],
+      "ingles": [
+        "hypoxia"
+      ]
+    }
+  },
+  "I": {
+    "incontinência urinária": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8374949/incontinence-urinaire",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > nefrologia e urologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Confiança da urina involuntária, às vezes inconsciente, pelo meato urinário.",
+      "Notas:": "A incontinência urinária pode ocorrer em qualquer idade, mas é mais frequente em crianças e idosos. Existem diferentes tipos, incluindo incontinência pós-uso, Enresis, incontinência ao esforço, incontinência de transbordamento e incontinência pela imperalidade. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "incontinence urinaire n. f.",
+        "incontinence d'urine n. f."
+      ],
+      "ingles": [
+        "urinary incontinence",
+        "UI",
+        "bladder incontinence",
+        "incontinence of urine"
+      ]
+    },
+    "insuficiência cardíaca": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8371908/insuffisance-cardiaque",
+      "dominio": [
+        "medicamento > Fisiopatologia",
+        "medicamento > cardiologia"
+      ],
+      "autor": "Escritório de Quebec do French Language Royal College of Doctors and Surgeons of Canada",
+      "data_ultima_atualizacao": "2015",
+      "Definição:": "Incapacidade do coração de fornecer fluxo sanguíneo suficiente para atender às necessidades de energia do corpo.",
+      "Notas:": "A insuficiência cardíaca pode afetar a parte esquerda, a parte direita ou as duas partes do coração. Distinguimos a insuficiência cardíaca sistólica e a insuficiência cardíaca diastólica. Esta folha faz parte do vocabulário da cirurgia e do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "insuffisance cardiaque n. f.",
+        "IC n. f.",
+        "défaillance cardiaque n. f."
+      ],
+      "ingles": [
+        "heart failure",
+        "HF",
+        "cardiac failure",
+        "CF",
+        "cardiac insufficiency",
+        "CI"
+      ]
+    }
+  },
+  "L": {
+    "lavar": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26558642/lavage",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Irrigação de um órgão oco ou uma cavidade natural por meio de uma sonda introduzida pelo nariz ou pela boca.",
+      "Notas:": "O líquido usado para lavagem pode ser evacuado imediatamente com o conteúdo da cavidade irrigada ou ser recuperado para ser objeto de análises. Lavagem e enema não devem ser confundidos, que consiste na injeção, pelo ânus, de um líquido no reto. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "lavage n. m."
+      ],
+      "ingles": [
+        "lavage",
+        "washing"
+      ]
+    },
+    "enema": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8408578/lavement",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Injeção de uma preparação de líquido no reto, pelo ânus, para fins diagnósticos ou terapêuticos.",
+      "Notas:": "Às vezes, um enema é indicado para promover a evacuação de fezes em caso de constipação ou antes de uma colonoscopia ou cirurgia. Outros tipos de efeitos são usados ​​para estabelecer um diagnóstico ou administrar medicamentos. A lavagem e a lavagem não devem ser confundidas, que é a irrigação de um órgão oco ou uma cavidade natural por meio de uma sonda introduzida pelo nariz ou pela boca. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "lavement n. m."
+      ],
+      "ingles": [
+        "enema"
+      ]
+    },
+    "luxação": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17698356/luxation",
+      "dominio": [
+        "medicamento > ortopedia",
+        "medicamento > Semiologia e Patologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Lesão músculo -esquelética resultante do deslocamento das extremidades dos ossos que formam uma articulação.",
+      "Notas:": "Uma luxação é geralmente causada por um choque ou movimento forçado. Os casos mais comuns de deslocamento são os do polegar, ombro e quadril. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "luxation n. f.",
+        "dislocation n. f."
+      ],
+      "ingles": [
+        "luxation",
+        "dislocation"
+      ]
+    },
+    "Linfoma": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26502237/lymphome",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > oncologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2018",
+      "Definição:": "Tumor, geralmente maligno, formado pela proliferação de células do tecido linfóide.",
+      "Observação :": "Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "lymphome n. m."
+      ],
+      "termos_em_contexto": [
+        "hématosarcome n. m.",
+        "lymphosarcome n. m."
+      ],
+      "ingles": [
+        "lymphoma"
+      ]
+    }
+  },
+  "M": {
+    "Doença de Alzheimer": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8875732/maladie-dalzheimer",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > neurologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Doença degenerativa do sistema nervoso nervoso central, que se manifesta clinicamente por uma síndrome evolutiva de como afasia, apraxia, agnosia e perda de memória, anatomicamente por uma atrofia progressiva do córtex cerebral, e histologicamente pela presença, no cérebro, do amiloóide e do neurofilareno.",
+      "Notas:": "A doença de Alzheimer, que é a forma mais comum de demência degenerativa, geralmente aparece no final da vida (cerca de 70 anos) e evolui lentamente. No entanto, acontece que ocorre cedo, antes de 65 anos; Freqüentemente assume um caráter genético e geralmente experimenta uma evolução mais rápida. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "maladie d'Alzheimer n. f.",
+        "MA n. f.",
+        "alzheimer n. m."
+      ],
+      "termos_em_contexto": [
+        "démence de type Alzheimer n. f.",
+        "DTA n. f.",
+        "démence sénile de type Alzheimer n. f.",
+        "DSTA n. f."
+      ],
+      "ingles": [
+        "Alzheimer's disease",
+        "AD",
+        "Alzheimer disease",
+        "AD",
+        "dementia of the Alzheimer type",
+        "DAT",
+        "Alzheimer dementia"
+      ]
+    },
+    "melanoma": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17027749/melanome",
+      "dominio": [
+        "medicamento > oncologia",
+        "medicamento > Anatomopatologia"
+      ],
+      "autor": "Escritório de Quebec do French Language Royal College of Doctors and Surgeons of Canada",
+      "data_ultima_atualizacao": "2016",
+      "Definição:": "Tumor desenvolvido às custas dos melanócitos.",
+      "Notas:": "Embora os melanomas mais frequentemente se desenvolvam na pele, eles também podem aparecer nos olhos ou em qualquer membrana mucosa. Esta folha faz parte do vocabulário da medicina e do vocabulário da oncologia.",
+      "termos_privilegiados": [
+        "mélanome n. m."
+      ],
+      "ingles": [
+        "melanoma"
+      ]
+    },
+    "Menorragia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8450325/menorragie",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Menstruação anormalmente abundante ou prolongada.",
+      "Notas:": "A menorragia implica uma perda de sangue total de mais de 80 ml ou sangramento, que dura mais de 7 dias. No entanto, a duração do ciclo menstrual não é afetada. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "ménorragie n. f.",
+        "hyperménorrhée n. f."
+      ],
+      "ingles": [
+        "menorrhagia",
+        "hypermenorrhea"
+      ]
+    },
+    "metástase": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17027718/metastase",
+      "dominio": [
+        "medicamento > oncologia",
+        "medicamento > Semiologia e Patologia"
+      ],
+      "autor": "Escritório de Quebec do French Language Royal College of Doctors and Surgeons of Canada",
+      "data_ultima_atualizacao": "2020",
+      "Definição:": "A lareira secundária de um tumor maligno, formado a partir de células cancerígenas que se destacaram de um tumor primitivo e depois migram por sangue ou linfático em direção a outra parte do corpo.",
+      "Notas:": "As metástases podem ser descobertas a partir do diagnóstico inicial de câncer ou aparecer após um período mais ou menos longo de remissão. A estrutura histológica das metástases nem sempre é semelhante à do tumor primitivo. Esta folha faz parte do vocabulário da medicina e do vocabulário da oncologia.",
+      "termos_privilegiados": [
+        "métastase n. f."
+      ],
+      "termos_em_contexto": [
+        "tumeur secondaire n. f.",
+        "cancer secondaire n. m."
+      ],
+      "ingles": [
+        "metastasis",
+        "secondary tumour",
+        "secondary tumor",
+        "secondary growth",
+        "secondary cancer"
+      ]
+    }
+  },
+  "O": {
+    "oclusão intestinal": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/18978507/occlusion-intestinale",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Julgamento parcial ou completo do trânsito intestinal em um segmento intestino.",
+      "Notas:": "A oclusão repentina ou progressiva, intestinal, pode se manifestar, entre outras coisas, na cólica intestinal, inchaço ou vômito. Muitas vezes, é de origem mecânica (por exemplo, uma obstrução acionada por um tumor ou aderências de cicatriz), mas também pode ser de origem funcional (por exemplo, paralisia). Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "occlusion intestinale n. f.",
+        "obstruction intestinale n. f.",
+        "iléus n. m."
+      ],
+      "ingles": [
+        "intestinal obstruction",
+        "bowel obstruction",
+        "ileus"
+      ]
+    },
+    "odrofagia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26558489/odynophagie",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > Otorrhinolaryngology",
+        "medicamento > Gastroenterologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "A dor sentida na boca, garganta ou esôfago durante a deglutição.",
+      "Notas:": "A Odnofagia pode ser temporária, por exemplo, quando ligada a um resfriado ou crônico, e indicar a presença de uma infecção ou um tumor maligno do esôfago, entre outros. Odnofagia e disfagia não devem ser confundidas, este último se referindo a um distúrbio. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "odynophagie n. f."
+      ],
+      "ingles": [
+        "odynophagia"
+      ]
+    },
+    "edema": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8363738/oedeme",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Infiltração de serosidade excessiva e indolor em um tecido ou órgão, o que causa inchaço.",
+      "Notas:": "O edema geralmente afeta o tecido conjuntivo subcutâneo ou submucoso. Anasarch, edema generalizado, é uma forma específica de edema. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "œdème n. m."
+      ],
+      "ingles": [
+        "edema",
+        "oedema"
+      ]
+    },
+    "otite": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8350856/otite",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Inflamação aguda ou crônica do ouvido médio ou da orelha externa.",
+      "Notas:": "A otite é geralmente causada por uma infecção bacteriana ou viral, por um acúmulo de líquido na cavidade timpânica ou por um barotrauma. A otite pode ser manifestada por otalgia, otorréia e hipoacousia. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "otite n. f."
+      ],
+      "ingles": [
+        "otitis"
+      ]
+    },
+    "otite externa": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8450701/otite-externe",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Otite caracterizada pela inflamação do meato acústico externo.",
+      "Notas:": "A otite externa é mais frequentemente de origem bacteriana ou micótica e é muito favorecida pela exposição frequente ou prolongada da orelha externa à água. Os sintomas de otite externa são geralmente otalgia, otorréia e coceira. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "otite externe n. f."
+      ],
+      "termos_em_contexto": [
+        "otite du baigneur n. f."
+      ],
+      "ingles": [
+        "otitis externa",
+        "OE",
+        "external otitis"
+      ],
+      "ingles_associado": [
+        "swimmer's ear"
+      ]
+    },
+    "Otite média aguda": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/19486933/otite-moyenne-aigue",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Otite de origem viral ou bacteriana que afeta o ouvido médio e que é frequentemente causada por uma infecção do trato respiratório superior.",
+      "Notas:": "As crianças pequenas têm maior probabilidade de serem afetadas pela otite aguda, especialmente devido ao ângulo e ao comprimento de seus tubos auditivos. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "otite moyenne aiguë n. f."
+      ],
+      "ingles": [
+        "acute otitis media",
+        "AOM"
+      ]
+    },
+    "Otite média serosa": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/19055215/otite-moyenne-sereuse",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Otite caracterizada por um acúmulo de líquido na cavidade timpânica.",
+      "Notas:": "Os sintomas mais frequentes de otite serosa são uma perda de audição e uma sensação de orelha bloqueada. Ao contrário da otite média aguda, ela não causa dor. A otite média serosa pode, em particular, ser causada por um mau funcionamento do tronco auditivo, por um barotrauma ou por uma otite média aguda. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "otite moyenne séreuse n. f.",
+        "otite séreuse n. f.",
+        "otite moyenne sécrétoire n. f."
+      ],
+      "ingles": [
+        "otitis media with effusion",
+        "OME",
+        "secretory otitis media",
+        "serous otitis media"
+      ]
+    }
+  },
+  "P": {
+    "Palpitação cardíaca": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17027386/palpitation-cardiaque",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Percepção de batidas cardíacas rápidas ou irregulares.",
+      "Notas:": "A palpitação cardíaca pode ser causada por um distúrbio do ritmo cardíaco (taquicardia ou extrystole, por exemplo), mas também ser causado por um esforço violento, ansiedade ou pelo consumo de café ou nicotina. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "palpitation cardiaque n. f.",
+        "palpitation n. f."
+      ],
+      "ingles": [
+        "heart palpitation",
+        "palpitation"
+      ]
+    },
+    "paresia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17013109/paresie",
+      "dominio": [
+        "medicamento > neurologia",
+        "medicamento > Reabilitação funcional e reabilitação"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2019",
+      "Definição:": "Paralisia leve ou parcial caracterizada por uma diminuição na capacidade de contrair um ou mais músculos, causando fraqueza muscular.",
+      "Notas:": "A péresia pode ser temporária ou permanente e geralmente não é acompanhada por uma perda de sensibilidade. Às vezes, evolui em paralisia completa e pode afetar, em particular, um membro (monopareia), três membros (triparesia), quatro membros (quadripares), a parte inferior do corpo (paraparesia) ou mesmo a metade direita ou esquerda do corpo (hemiparesia). A paresis flash será descrita como o tônus ​​muscular é reduzido e espástico, quando o tônus ​​muscular é aumentado. Esta folha faz parte do vocabulário de deficiências, distúrbios e situações de Handicap: palavras para falar sobre isso e o vocabulário da medicina.",
+      "termos_privilegiados": [
+        "parésie n. f."
+      ],
+      "ingles": [
+        "paresis"
+      ]
+    },
+    "Parestesia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8399027/paresthesie",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > neurologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Transtorno da sensibilidade que é caracterizada pela percepção, em uma ou mais partes do corpo, formigamento, formigamento, queimaduras, coceira ou números geralmente não países e que aparecem na maioria das vezes espontaneamente.",
+      "Notas:": "A parestesia geralmente se manifesta em partes altamente inervadas do corpo, como dedos dos pés e pés, mas também é frequentemente sentida nos braços e pernas. A parestesia geralmente ocorre quando um nervo é temporariamente comprimido, por exemplo, quando você encontra as pernas por muito tempo. É então sem gravidade e é absorvido assim que as pernas forem limpas. It can however be the symptom of a deficiency or a lack (eg in case of hypoglycemia), a hormonal problem (eg in case of hyperthyroidism), a blood circulation disorder (e.g. in Raynaud syndrome), damage to the central nervous system (e.g. in the sclerosis in plates) or an impairment of the peripheral nervous system (eg in carpal tunnel syndrome), among outros. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "paresthésie n. f."
+      ],
+      "ingles": [
+        "paresthesia",
+        "paraesthesia"
+      ]
+    },
+    "beliscando": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26558492/pincement-discal",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "O afinamento global ou localizado de um disco intervertebral, causando uma aproximação das vértebras e que pode causar atrito entre elas.",
+      "Notas:": "A pitada discal é frequentemente de origem postural ou traumática, mas também pode estar ligada ao envelhecimento e desgaste. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "pincement discal n. m.",
+        "tassement discal n. m."
+      ],
+      "ingles": [
+        "disc space narrowing",
+        "DSN",
+        "disk space narrowing",
+        "disc narrowing",
+        "disk narrowing"
+      ]
+    },
+    "pneumotórax": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8446819/pneumothorax",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Efusão ao ar na cavidade pleural, causando flacidez parcial ou completa pulmonar.",
+      "Notas:": "O pneumotórax pode ser espontâneo, sua origem sendo desconhecida ou causada por uma doença pulmonar, um trauma ou um procedimento médico. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "pneumothorax n. m."
+      ],
+      "ingles": [
+        "pneumothorax"
+      ]
+    },
+    "psoríase": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17023591/psoriasis",
+      "dominio": [
+        "medicamento > dermatologia",
+        "medicamento > Semiologia e Patologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2017",
+      "Definição:": "Dermatose crônica causada por uma proliferação excessiva de células epidérmicas, o que resulta no aparecimento de lesões eritematosquíticas, arredondadas ou ovais, bem circunscritas e variáveis.",
+      "Notas:": "A etiologia da psoríase é pouco conhecida, mas esse afeto da pele é geralmente de origem genética. Entre os sinais patognomônicos da doença, pode -se citar o sinal da mancha da vela e o sinal de orvalho sangrento. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "psoriasis n. m."
+      ],
+      "ingles": [
+        "psoriasis"
+      ]
+    },
+    "Pielonefrite": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26554454/pyelonephrite",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Inflamação aguda ou crônica da pelve renal e do rim, de origem bacteriana.",
+      "Notas:": "A pielonefrite geralmente se manifesta pela dor durante a micção, Pollakiuria, Pyuria, dor na região lombar ou pélvica e febre. A pielonefrite é mais frequente em mulheres do que nos homens e geralmente é causada por cistite não tratada. Também pode ocorrer em caso de obstrução do trato urinário ou, mais raramente, quando uma anomalia anatômica causa um refluxo da urina na pelve renal. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "pyélonéphrite n. f."
+      ],
+      "ingles": [
+        "pyelonephritis",
+        "nephropyelitis"
+      ]
+    }
+  },
+  "R": {
+    "Refluxo gastroesofágico": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17015871/reflux-gastro-oesophagien",
+      "dominio": [
+        "medicamento > Semiologia e Patologia",
+        "medicamento > Gastroenterologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2019",
+      "Definição:": "Refluxo de parte do teor de ácido do estômago no esôfago, geralmente ocorre em uma pessoa em uma posição alongada ou consumindo uma refeição e que mais frequentemente causa pirose.",
+      "Notas:": "O refluxo gastroesofágico é geralmente causado pela falta de operação do esfíncter inferior do esôfago, mas certos fatores também podem contribuir para sua aparência, incluindo ganho de peso, alimentos gordurosos, consumo de álcool e tabaco, além de tomar determinados medicamentos. O refluxo gastroesofágico repetido pode causar esofagite, úlceras, estreitamento do esôfago, bem como o aparecimento de lesões pré -cancerosas. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "reflux gastro-œsophagien n. m.",
+        "RGO n. m.",
+        "reflux gastroœsophagien n. m.",
+        "reflux gastrique n. m.",
+        "reflux œsophagien n. m.",
+        "reflux œsogastrique n. m.",
+        "reflux œso-gastrique n. m."
+      ],
+      "ingles": [
+        "gastroesophageal reflux",
+        "gastro-esophageal reflux",
+        "gastro-oesophageal reflux",
+        "GOR",
+        "esophageal reflux",
+        "oesophageal reflux",
+        "acid reflux",
+        "acid regurgitation",
+        "acid indigestion"
+      ]
+    },
+    "retinopatia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17023468/retinopathie",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Afeto degenerativo, não -inflamatório, retina.",
+      "Notas:": "A retinopatia geralmente se manifesta por danos aos vasos sanguíneos da retina e uma perda de visão progressiva. É provável que seja observado em pessoas com diabetes (retinopatia diabética) ou pressão alta (retinopatia hipertensiva). Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "rétinopathie n. f."
+      ],
+      "ingles": [
+        "retinopathy"
+      ]
+    },
+    "Rinite": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8365082/rhinite",
+      "dominio": [
+        "medicamento > Otorrhinolaryngology",
+        "medicamento > infectiologia",
+        "medicamento > alergologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Inflamação aguda ou crônica das membranas mucosas da cavidade nasal e da parte nasal da faringe acompanhada por hipersecretion e fluxo.",
+      "Notas:": "A rinite alérgica e Coryza são a rinite mais frequentemente encontrada. Esta folha faz parte do vocabulário da farmácia e do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "rhinite n. f."
+      ],
+      "ingles": [
+        "rhinitis"
+      ]
+    },
+    "Rinorreia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8436970/rhinorrhee",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Lento de um líquido seroso, mucoso ou purulento pelas narinas ou pela parte traseira das cavidades nasais.",
+      "Notas:": "A renina é tipicamente causada por rinite ou infecção viral. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "rhinorrhée n. f."
+      ],
+      "ingles": [
+        "rhinorrhea",
+        "rhinorrhoea"
+      ]
+    },
+    "freqüência cardíaca": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8371097/rythme-cardiaque",
+      "dominio": [
+        "medicamento > fisiologia",
+        "medicamento > cardiologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Maneira pela qual as contrações cardíacas se seguem.",
+      "Notas:": "A frequência cardíaca, que pode ser observada em um eletrocardiograma, é normalmente bastante constante, porque as contrações cardíacas de um coração saudável são geralmente regulares e coordenadas. A irregularidade prolongada da freqüência cardíaca (por exemplo, extrasystóis repetidos e frequentes) é frequentemente o sinal de um problema cardíaco. A frequência cardíaca deve ser distinguida da freqüência cardíaca, que corresponde ao número de contrações cardíacas por unidade de tempo. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "rythme cardiaque n. m."
+      ],
+      "ingles": [
+        "heart rhythm",
+        "cardiac rhythm"
+      ]
+    }
+  },
+  "S": {
+    "esplenomegalia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8393013/splenomegalie",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Aumento no volume do baço.",
+      "Notas:": "A esplenomegalia é um sinal presente em um grande número de distúrbios, como doenças infecciosas ou inflamatórias (malária, mononucleose, hepatite, por exemplo), hemopatias malignas (leucemia, linfoma, por exemplo) e certas formas de anemia. Raramente encontramos em uso nos termos megalosplénia e hipersplenia, mas estes não são mais atestados em documentação especializada recente. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "splénomégalie n. f.",
+        "hypertrophie splénique n. f."
+      ],
+      "ingles": [
+        "splenomegaly",
+        "spleen enlargement",
+        "enlargement of the spleen",
+        "splenic enlargement"
+      ]
+    }
+  },
+  "T": {
+    "taquicardia": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8382733/tachycardie",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Aceleração da freqüência cardíaca, normalmente além de cem batidas por minuto.",
+      "Notas:": "A taquicardia pode ser causada por um distúrbio do ritmo cardíaco (por exemplo, taquicardia ventricular) ou não (por exemplo, alguma taquicardia sinusal ocorre durante um intenso esforço físico ou devido a uma emoção animada). Às vezes, passa despercebido, mas geralmente se manifesta por palpitações cardíacas e pode causar desconforto ou síncopes. A taquicardia deve ser distinguida da taquyaritmia, que é caracterizada por batimentos rápidos e irregulares. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "tachycardie n. f."
+      ],
+      "ingles": [
+        "tachycardia",
+        "tachyrhythmia",
+        "tachysystole"
+      ]
+    },
+    "Tampo de tampo cardíaco": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8436884/tamponnade-cardiaque",
+      "dominio": [],
+      "autor": "Escritório de Quebec do French Language Royal College of Doctors and Surgeons of Canada",
+      "data_ultima_atualizacao": "2015",
+      "Definição:": "Compressão aguda do coração, especialmente de suas cavidades retas, causadas por derrame líquido abundante ou constituído rapidamente dentro do pericárdio e resultando em uma queda no fluxo cardíaco.",
+      "Notas:": "O tamponamento cardíaco é tratado por uma punção de pericárdio, que pode ser seguida pela drenagem cirúrgica. Esta folha faz parte do vocabulário da cirurgia e do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "tamponnade cardiaque n. f."
+      ],
+      "ingles": [
+        "cardiac tamponade"
+      ]
+    },
+    "micção": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26558612/trouble-de-la-miction",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Transtorno ligado à evacuação da urina ou sua retenção.",
+      "Notas:": "Em particular, existem disúria, enurese e incontinência urinária. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "trouble de la miction n. m.",
+        "trouble mictionnel n. m."
+      ],
+      "ingles": [
+        "urination disorder",
+        "micturition dirsorder"
+      ]
+    },
+    "tumor": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8391691/tumeur",
+      "dominio": [
+        "medicamento > Anatomopatologia",
+        "medicamento > oncologia"
+      ],
+      "autor": "Escritório de Quebec do French Language Royal College of Doctors and Surgeons of Canada",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Formação patológica de novo tecido, mais ou menos parecido com o tecido normal às custas de que ele se desenvolve, causado por uma multiplicação excessiva e descontrolada de células.",
+      "Notas:": "Existem dois tipos de tumores: o tumor benigno, estritamente localizado e composto por células normais, e o tumor maligno, invasivo e formado de células atípicas. Esta folha faz parte do vocabulário da medicina e do vocabulário da oncologia.",
+      "termos_privilegiados": [
+        "tumeur n. f.",
+        "néoplasme n. m."
+      ],
+      "ingles": [
+        "tumour",
+        "tumor",
+        "neoplasm"
+      ]
+    }
+  },
+  "V": {
+    "vacina": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8408967/vaccin",
+      "dominio": [
+        "medicamento > medicina preventiva",
+        "medicamento > Terapêutico e assistência médica",
+        "biologia > imunologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2020",
+      "Definição:": "Preparação antigênica que fornece à pessoa vacinada imunidade ativa contra certas doenças microbianas, virais ou parasitárias.",
+      "Notas:": "Distinguimos vacinas profiláticas (preventivas) e vacinas terapêuticas (curativas). Esta folha faz parte do vocabulário uma linguagem saudável: vocabulário de cuidados de enfermagem, o vocabulário da farmácia e o vocabulário da medicina.",
+      "termos_privilegiados": [
+        "vaccin n. m."
+      ],
+      "ingles": [
+        "vaccine"
+      ]
+    },
+    "vacinação": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8359423/vaccination",
+      "dominio": [
+        "medicamento > medicina preventiva",
+        "medicamento > Terapêutico e assistência médica",
+        "biologia > imunologia"
+      ],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2018",
+      "Definição:": "Inoculação ou administração oral de um antígeno para induzir uma resposta ativa do sistema imunológico a um ebactérias, um vírus, um parasita ou uma toxina produzida por um agente infeccioso.",
+      "Notas:": "A vacinação pode ser praticada para fins preventivos ou curativos. Esta folha faz parte do vocabulário uma linguagem saudável: vocabulário de enfermagem e vocabulário da medicina.",
+      "termos_privilegiados": [
+        "vaccination n. f."
+      ],
+      "ingles": [
+        "vaccination"
+      ]
+    },
+    "varicoseum": {
+      "fonte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8436177/varice",
+      "dominio": [],
+      "autor": "Escritório de Quebec da língua francesa",
+      "data_ultima_atualizacao": "2021",
+      "Definição:": "Dilatação permanente e patológica de uma veia superficial.",
+      "Notas:": "A insuficiência venosa é a principal causa de varizes. No entanto, vários fatores podem promover sua aparência: excesso de peso, exposição prolongada e repetidos ao calor, gravidez e estilo de vida sedentário, entre outros. Esta folha faz parte do vocabulário da medicina.",
+      "termos_privilegiados": [
+        "varice n. f.",
+        "phlébectasie n. f."
+      ],
+      "ingles": [
+        "varix",
+        "phlebectasia"
+      ]
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "A": {
+    "accident ischémique transitoire": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8369586/accident-ischemique-transitoire",
+    "accident vasculaire cérébral": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8354140/accident-vasculaire-cerebral",
+    "adénomégalie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26554381/adenomegalie",
+    "albuminurie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17080139/albuminurie",
+    "analyse d'urine": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17487531/analyse-durine",
+    "anémie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8361678/anemie",
+    "anévrisme": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8359742/anevrisme",
+    "angine de poitrine": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8373494/angine-de-poitrine",
+    "appendicectomie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17080000/appendicectomie",
+    "appendicite": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17090956/appendicite",
+    "arthralgie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26553654/arthralgie",
+    "arthrose": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8364935/arthrose",
+    "asthme": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8392587/asthme",
+    "atrophie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17022908/atrophie"
+  },
+  "B": {
+    "biopsie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8410375/biopsie",
+    "bronchiolite": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17025315/bronchiolite",
+    "bronchite": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8449595/bronchite",
+    "bronchopneumopathie chronique obstructive": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8411805/bronchopneumopathie-chronique-obstructive",
+    "bronchoscope": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26558650/bronchoscope",
+    "bronchoscopie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8449583/bronchoscopie"
+  },
+  "C": {
+    "caillot sanguin": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029824/caillot-sanguin",
+    "calcul": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8449126/calcul",
+    "calcul rénal": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8375530/calcul-renal",
+    "cardiomégalie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8449013/cardiomegalie",
+    "cataracte": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8359547/cataracte",
+    "cholestérol": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029895/cholesterol",
+    "cholestérolémie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8445883/cholesterolemie",
+    "colique": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029766/colique",
+    "colique hépatique": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8448521/colique-hepatique",
+    "colique intestinale": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17581621/colique-intestinale",
+    "colique néphrétique": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8448520/colique-nephretique",
+    "commotion cérébrale": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029720/commotion-cerebrale",
+    "contractilité ventriculaire": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17011013/contractilite-ventriculaire",
+    "contusion": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029651/contusion",
+    "cystite": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8358783/cystite"
+  },
+  "D": {
+    "dégénérescence": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029430/degenerescence",
+    "dermatite": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17048395/dermatite",
+    "diverticule": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17024850/diverticule",
+    "diverticulite": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8443681/diverticulite",
+    "diverticulose": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17024851/diverticulose",
+    "drainage": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029256/drainage",
+    "dysphagie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8877521/dysphagie",
+    "dyspnée": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8871215/dyspnee",
+    "dysurie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17024807/dysurie"
+  },
+  "E": {
+    "eczéma": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17029180/eczema",
+    "embolie pulmonaire": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8387613/embolie-pulmonaire",
+    "entorse": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8871216/entorse",
+    "épanchement": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8386884/epanchement",
+    "épanchement intraarticulaire": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26558665/epanchement-intraarticulaire",
+    "épanchement péricardique": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26558659/epanchement-pericardique",
+    "épanchement pleural": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8386883/epanchement-pleural",
+    "érythème": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8450716/erytheme",
+    "examen cytobactériologique des urines": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8373612/examen-cytobacteriologique-des-urines",
+    "expectoration": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8442868/expectoration",
+    "extrasystole": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8410312/extrasystole"
+  },
+  "F": {
+    "fracture": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17028733/fracture",
+    "fracture spiroïde": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8447794/fracture-spiroide",
+    "fréquence cardiaque": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8371098/frequence-cardiaque",
+    "frottement pleural": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8435745/frottement-pleural"
+  },
+  "G": {
+    "gastrite": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26554570/gastrite",
+    "goitre": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8447632/goitre"
+  },
+  "H": {
+    "hématome": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8386725/hematome",
+    "hématome sous-dural": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8416690/hematome-sous-dural",
+    "hématurie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17024486/hematurie",
+    "hépatomégalie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8393020/hepatomegalie",
+    "hyperoxie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8375058/hyperoxie",
+    "hypertrophie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26553189/hypertrophie",
+    "hypoxie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8375062/hypoxie"
+  },
+  "I": {
+    "incontinence urinaire": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8374949/incontinence-urinaire",
+    "insuffisance cardiaque": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8371908/insuffisance-cardiaque"
+  },
+  "L": {
+    "lavage": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26558642/lavage",
+    "lavement": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8408578/lavement",
+    "luxation": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17698356/luxation",
+    "lymphome": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26502237/lymphome"
+  },
+  "M": {
+    "maladie d'Alzheimer": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8875732/maladie-dalzheimer",
+    "mélanome": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17027749/melanome",
+    "ménorragie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8450325/menorragie",
+    "métastase": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17027718/metastase"
+  },
+  "O": {
+    "occlusion intestinale": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/18978507/occlusion-intestinale",
+    "odynophagie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26558489/odynophagie",
+    "œdème": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8363738/oedeme",
+    "otite": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8350856/otite",
+    "otite externe": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8450701/otite-externe",
+    "otite moyenne aiguë": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/19486933/otite-moyenne-aigue",
+    "otite moyenne séreuse": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/19055215/otite-moyenne-sereuse"
+  },
+  "P": {
+    "palpitation cardiaque": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17027386/palpitation-cardiaque",
+    "parésie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17013109/paresie",
+    "paresthésie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8399027/paresthesie",
+    "pincement discal": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26558492/pincement-discal",
+    "pneumothorax": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8446819/pneumothorax",
+    "psoriasis": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17023591/psoriasis",
+    "pyélonéphrite": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26554454/pyelonephrite"
+  },
+  "R": {
+    "reflux gastro-œsophagien": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17015871/reflux-gastro-oesophagien",
+    "rétinopathie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/17023468/retinopathie",
+    "rhinite": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8365082/rhinite",
+    "rhinorrhée": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8436970/rhinorrhee",
+    "rythme cardiaque": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8371097/rythme-cardiaque"
+  },
+  "S": {
+    "splénomégalie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8393013/splenomegalie"
+  },
+  "T": {
+    "tachycardie": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8382733/tachycardie",
+    "tamponnade cardiaque": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8436884/tamponnade-cardiaque",
+    "trouble de la miction": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/26558612/trouble-de-la-miction",
+    "tumeur": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8391691/tumeur"
+  },
+  "V": {
+    "vaccin": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8408967/vaccin",
+    "vaccination": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8359423/vaccination",
+    "varice": "https://vitrinelinguistique.oqlf.gouv.qc.ca/fiche-gdt/fiche/8436177/varice"
+  }
+}

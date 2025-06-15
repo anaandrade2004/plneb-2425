@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Concept: {{ term }}</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+
+<div class="container py-5">
+    <div class="d-flex justify-content-between mb-4">
+        <a href="{{ url_for('home') }}" class="btn btn-outline-primary">Home</a>
+        <a href="{{ url_for('concept_detail', letter=term[0].upper(), term=term) }}" class="btn btn-outline-secondary">Cancel</a>
+    </div>
+
+    <h2 class="text-primary mb-4">Edit Concept: <em>{{ term }}</em></h2>
+
+    <form method="POST" class="card p-4 shadow-sm border-0">
+
+        <div class="mb-3">
+            <label class="form-label">Term *</label>
+            <input name="term" class="form-control" value="{{ term }}" required>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Dictionary</label>
+            <input name="dicionario" class="form-control" value="{{ concept.get('dicionario', '') }}" placeholder="Dictionary">
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Lexical Category</label>
+            <input name="categoria lexical da designação" class="form-control" value="{{ concept.get('categoria lexical da designação', '') }}" placeholder="Lexical Category">
+        </div>
+
+        <h5 class="mt-4">Complementary Info</h5>
+
+        {% set comp = concept.get('complementos designação', {}) %}
+        <div class="mb-3">
+            <label class="form-label">Acronyms (comma-separated)</label>
+            <input name="siglas" class="form-control" value="{{ comp.get('siglas', []) | join(', ') }}" placeholder="Acronyms">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Absolute Synonyms</label>
+            <input name="sinónimos absolutos" class="form-control" value="{{ comp.get('sinónimos absolutos', '') }}" placeholder="Absolute Synonyms">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Complementary Synonyms (comma-separated)</label>
+            <input name="sinónimos complementares" class="form-control" value="{{ comp.get('sinónimos complementares', []) | join(', ') }}" placeholder="Complementary Synonyms">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Commercial Name</label>
+            <input name="denominação comercial" class="form-control" value="{{ comp.get('denominação comercial', '') }}" placeholder="Commercial Name">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">See Also</label>
+            <input name="consultar outra entrada" class="form-control" value="{{ comp.get('consultar outra entrada', '') }}" placeholder="See Also">
+        </div>
+
+        <h5 class="mt-4">Translations</h5>
+
+        {% set languages = {
+        "occità": "Occitan",
+        "basc": "Basque",
+        "gallec": "Galician",
+        "castellà": "Spanish (Castilian)",
+        "anglès": "English",
+        "francès": "French",
+        "portuguès": "Portuguese",
+        "[PT]portuguès de Portugal": "Portuguese (Portugal)",
+        "[BR]portuguès del Brasil": "Portuguese (Brazil)",
+        "neerlandè": "Dutch",
+        "àrab": "Arabic"
+        } %}
+
+        {% set translations = concept.get('traduções', {}) %}
+        {% for json_key, display_name in languages.items() %}
+            <div class="mb-2">
+                <label class="form-label">{{ display_name }}</label>
+                <input name="{{ json_key }}" class="form-control" value="{{ translations.get(json_key, '') }}" placeholder="{{ display_name }}">
+            </div>
+        {% endfor %}
+
+        <h5 class="mt-4">Alternative Codes</h5>
+        {% set codes = concept.get('códigos alternativos', {}) %}
+        <div class="mb-3">
+            <label class="form-label">SBL</label>
+            <input name="sbl" class="form-control" value="{{ codes.get('sbl', '') }}" placeholder="SBL">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">NC</label>
+            <input name="nc" class="form-control" value="{{ codes.get('nc', '') }}" placeholder="NC">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">CAS</label>
+            <input name="CAS" class="form-control" value="{{ codes.get('CAS', '') }}" placeholder="CAS">
+        </div>
+
+        <h5 class="mt-4">Thematic Area</h5>
+        {% set thematic = concept.get('áreas temáticas', {}) %}
+        <div class="mb-3">
+            <label class="form-label">Area</label>
+            <input name="área" class="form-control" value="{{ thematic.get('área', '') }}" placeholder="Area">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Description</label>
+            <textarea name="descrição" class="form-control" rows="3" placeholder="Description">{{ thematic.get('descrição', '') }}</textarea>
+        </div>
+
+        <h5 class="mt-4">Notes</h5>
+        {% set notes = concept.get('notas', {}) %}
+        <div class="mb-3">
+            <label class="form-label">Notes Info (comma-separated)</label>
+            <input name="informacoes_notas" class="form-control" value="{{ notes.get('informacoes_notas', []) | join(', ') }}" placeholder="Notes info">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Encyclopedic Info</label>
+            <input name="Informacao_enciclopedica" class="form-control" value="{{ notes.get('Informacao_enciclopedica', '') }}" placeholder="Encyclopedic Info">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Accreditation</label>
+            <input name="Abonacao" class="form-control" value="{{ notes.get('Abonacao', '') }}" placeholder="Accreditation">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">ID Number</label>
+            <input name="Numero_identificacao" class="form-control" value="{{ notes.get('Numero_identificacao', '') }}" placeholder="ID Number">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Typography Marks (comma-separated)</label>
+            <input name="Marcas_Tipograficas" class="form-control" value="{{ notes.get('Marcas_Tipograficas', []) | join(', ') }}" placeholder="Typography Marks">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Reference</label>
+            <input name="remissiva" class="form-control" value="{{ notes.get('remissiva', '') }}" placeholder="Reference">
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Expanded</label>
+            <input name="expandida" class="form-control" value="{{ notes.get('expandida', '') }}" placeholder="Expanded">
+        </div>
+
+        <button type="submit" class="btn btn-warning w-100 mt-3">Update Concept</button>
+    </form>
+</div>
+
+</body>
+</html>

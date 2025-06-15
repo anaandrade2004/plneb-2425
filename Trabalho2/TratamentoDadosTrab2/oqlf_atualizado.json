@@ -1,0 +1,3986 @@
+{
+  "A": {
+    "Acidente isquêmico de transição": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "transient ischemic attack, TIA",
+        "anglès_associado": "mini-stroke",
+        "francès": "accident ischémique transitoire n. m., AIT n. m., ischémie cérébrale transitoire n. f., ICT n. f.",
+        "francès_contexte": "mini-accident vasculaire cérébral n. m., mini-AVC n. m."
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > neurologia",
+        "descrição": "Isquemia temporária em uma parte do cérebro, que não causa infarto cerebral e resulta de uma obstrução arterial."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Os sinais e sintomas de um acidente isquêmico transitório aparecem repentinamente e desaparecem em menos de 24 horas. Pode, por exemplo, ser distúrbios visuais, paresia ou distúrbio da fala. Um acidente isquêmico transitório pode ser um derrame. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "AVC": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "stroke, cerebrovascular accident, CVA",
+        "anglès_associado": "apoplexy",
+        "francès": "accident vasculaire cérébral n. m., AVC n. m., accident cérébrovasculaire n. m., ACV n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > neurologia",
+        "descrição": "Ruptura repentina da circulação sanguínea em uma parte do cérebro, que causa danos cerebrais e resulta da obstrução ou hemorragia arterial."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "O acidente vascular cerebral pode se manifestar por vários sinais e sintomas, como afasia, hemiparisia ou confusão. Essas dificuldades podem ser absorvidas ao longo do tempo ou se tornarem permanentes. O derrame pode ser precedido por um acidente isquêmico transitório. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "adenomegalia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "adenomegaly",
+        "anglès_associado": "",
+        "francès": "adénomégalie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Anatomopatologia, medicamento > Hematologia e sorologia",
+        "descrição": "Hipertrofia de um ou mais nós linfáticos após uma infecção bacteriana ou viral ou ligados à presença de um tumor."
+      },
+      "notas": {
+        "informacoes_notas": [
+          ""
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "albuminúria": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "albuminuria",
+        "anglès_associado": "",
+        "francès": "albuminurie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > nefrologia e urologia",
+        "descrição": "Presença de albumina na urina."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A albuminúria geralmente reflete um carinho do rim, mas também pode ser um sintoma de pressão alta, diabetes tipo 1, insuficiência cardíaca, infecção do trato urinário ou câncer de bexiga, entre outros. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Análise de urina": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "urinalysis, uranalysis, urine analysis, UA, analysis of the urine",
+        "anglès_associado": "",
+        "francès": "analyse d'urine n. f., analyse de l'urine n. f., analyse des urines n. f., analyse urinaire n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Exames de laboratório, medicamento > nefrologia e urologia",
+        "descrição": "Conjunto de exames de laboratório para medir o potencial de hidrogênio e o osmoch da urina, bem como detectar a presença de glicose, proteínas, células, eletrólitos, cetonas, sedimentos e bactérias e medir sua concentração."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A análise da urina possibilita, em particular, detectar diabetes, problema renal, gravidez e infecção do trato urinário. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "anemia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "anemia, anaemia",
+        "anglès_associado": "",
+        "francès": "anémie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > Hematologia e sorologia",
+        "descrição": "Diminuição na concentração de hemoglobina no sangue abaixo dos valores normais."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Considera -se geralmente que há anemia quando a concentração de hemoglobina é inferior a 13 g/100 ml em homens e 12 g/100 ml em mulheres (11 g/100 ml em mulheres grávidas). A anemia se manifesta em particular por fadiga (difundida ou esforço), palidez da pele e membranas mucosas, fraqueza, distúrbios digestivos, tontura, falta de ar e episódios de taquicardia. A anemia é geralmente o resultado da perda de sangue (por exemplo, lesão ou menstruação), produção insuficiente de eritrócitos saudáveis ​​(por exemplo, deficiência de ferro, ácido fólico ou vitamina B12) ou eliminação excessiva de eritrócitos (reações autoimunes por exemplo). Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "aneurisma": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "aneurysm, aneurism",
+        "anglès_associado": "",
+        "francès": "anévrisme n. m., anévrysme n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Dilatação localizada da parede de uma artéria, o que leva à formação de um bolso de sangue na jornada do vaso sanguíneo."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Falaremos, por exemplo, de aneurisma aórtica e aneurisma cerebral, de acordo com sua localização. A ruptura de um aneurisma leva a uma hemorragia, que pode ser fatal. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "angina": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "angina pectoris, stenocardia",
+        "anglès_associado": "",
+        "francès": "angine de poitrine n. f., angor n. m., sténocardie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Síndrome causada pela isquemia do miocárdio e caracterizada por dor ou sensação de pressão sob o esterno."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A dor causada pela angina do peito pode irradiar o pescoço, a mandíbula, os ombros, os membros superiores e as costas. Uma distinção é feita entre angina estável, que ocorre em esforço e que permanece curta, de peito instável, cuja frequência e duração aumentam, que podem anunciar a ocorrência de um infarto do miocárdio. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "apendicectomia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "appendicectomy, appendectomy",
+        "anglès_associado": "",
+        "francès": "appendicectomie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > cirurgia, medicamento > Gastroenterologia",
+        "descrição": "Ablação do apêndice vermiforme."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A apendicectomia pode ser realizada por cirurgia efraativa ou por Lapiochurgery. É notavelmente praticado em caso de apendicite. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "apendicite": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "appendicitis",
+        "anglès_associado": "",
+        "francès": "appendicite n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Gastroenterologia, medicamento > Semiologia e Patologia",
+        "descrição": "Inflamação aguda ou crônica do apêndice vermiforme."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A apendicite ocorre com mais frequência quando o orifício entre o apêndice vermiforme e o ccum é obstruído (por exemplo, por fezes ou um crescimento da parede do ceco) ou como resultado de uma infecção gastrointestinal ou inflamação do intestino grosso. A apendicite pode evoluir na peritonite ou abscesso do apêndice; É por isso que é necessário tratá -lo rapidamente removendo o apêndice vermiforme. Além da dor aguda, os sintomas mais frequentes da apendicite são febre, náusea, perda de apetite, constipação e diarréia. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Arthralgia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "arthralgia",
+        "anglès_associado": "",
+        "francès": "arthralgie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "A dor foi sentida em uma ou mais articulações."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A artralgia pode ser causada por uma lesão, por distúrbios não inflamatórios, como osteoartrite ou por condições inflamatórias, como artrite ou gota. A Artralgia pode atingir uma única articulação (monoarthralgia), quatro articulações ou menos (oligoarthralgia) ou mais de quatro articulações (poliarthralgia). Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "asma": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "asthma, bronchial asthma, true asthma",
+        "anglès_associado": "",
+        "francès": "asthme n. m., asthme vrai n. m., asthme bronchique n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > Pulmonologia",
+        "descrição": "A síndrome caracterizada por episódios de obstrução do trato respiratório inferior, que se manifesta pelo acesso de tosse acompanhado por bradipnea expiratória e assobiando a respiração ligada à contração espasmódica, hipersecretion e edema de brônquios."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A asma é mais frequentemente declarada na forma de alergia ou após uma infecção do trato respiratório. Os principais gatilhos são agentes irritantes domésticos, são alérgenos de ácaros, baratas, gatos e cães, bem como fungos microscópicos. Geralmente, ataques agudos de asma são acompanhados por um sentimento de pânico. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "atrofia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "atrophy",
+        "anglès_associado": "",
+        "francès": "atrophie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Diminuiu o volume de um órgão ou um tecido, geralmente devido à redução no tamanho das células que o compõem ou à redução de seu número."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A atrofia pode ser fisiológica (por exemplo, atrofia do timo com puberdade) ou patológica (por exemplo, amiotrofia em uma pessoa com paraplegia). Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  },
+  "O": {
+    "Osteoartrite": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "osteoarthritis, OA, osteoarthrosis, OA, arthrosis, degenerative joint disease, degenerative arthritis",
+        "anglès_associado": "",
+        "francès": "arthrose n. f., ostéoarthrose n. f., OA n. f.",
+        "francès_contexte": "ostéoarthrite n. f., OA n. f."
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Origem articular crônica e não inflamatória caracterizada pela deterioração das cartilagens e, geralmente, pela presença de osteófitos."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Envelhecimento, hereditariedade e obesidade são as principais causas da osteoartrite. É mais frequentemente manifestado pela rigidez, estalos e uma redução na amplitude do movimento da articulação afetada, bem como pela dor. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "oclusão intestinal": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "intestinal obstruction, bowel obstruction, ileus",
+        "anglès_associado": "",
+        "francès": "occlusion intestinale n. f., obstruction intestinale n. f., iléus n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Julgamento parcial ou completo do trânsito intestinal em um segmento intestino."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A oclusão repentina ou progressiva, intestinal, pode se manifestar, entre outras coisas, na cólica intestinal, inchaço ou vômito. Muitas vezes, é de origem mecânica (por exemplo, uma obstrução acionada por um tumor ou aderências de cicatriz), mas também pode ser de origem funcional (por exemplo, paralisia). Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "odrofagia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "odynophagia",
+        "anglès_associado": "",
+        "francès": "odynophagie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > Otorrhinolaryngology, medicamento > Gastroenterologia",
+        "descrição": "A dor sentida na boca, garganta ou esôfago durante a deglutição."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A Odnofagia pode ser temporária, por exemplo, quando ligada a um resfriado ou crônico, e indicar a presença de uma infecção ou um tumor maligno do esôfago, entre outros. Odnofagia e disfagia não devem ser confundidas, este último se referindo a um distúrbio. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "otite": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "otitis",
+        "anglès_associado": "",
+        "francès": "otite n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Inflamação aguda ou crônica do ouvido médio ou da orelha externa."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A otite é geralmente causada por uma infecção bacteriana ou viral, por um acúmulo de líquido na cavidade timpânica ou por um barotrauma. A otite pode ser manifestada por otalgia, otorréia e hipoacousia. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "otite externa": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "otitis externa, OE, external otitis",
+        "anglès_associado": "swimmer's ear",
+        "francès": "otite externe n. f.",
+        "francès_contexte": "otite du baigneur n. f."
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Otite caracterizada pela inflamação do meato acústico externo."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A otite externa é mais frequentemente de origem bacteriana ou micótica e é muito favorecida pela exposição frequente ou prolongada da orelha externa à água. Os sintomas de otite externa são geralmente otalgia, otorréia e coceira. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Otite média aguda": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "acute otitis media, AOM",
+        "anglès_associado": "",
+        "francès": "otite moyenne aiguë n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Otite de origem viral ou bacteriana que afeta o ouvido médio e que é frequentemente causada por uma infecção do trato respiratório superior."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "As crianças pequenas têm maior probabilidade de serem afetadas pela otite aguda, especialmente devido ao ângulo e ao comprimento de seus tubos auditivos. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Otite média serosa": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "otitis media with effusion, OME, secretory otitis media, serous otitis media",
+        "anglès_associado": "",
+        "francès": "otite moyenne séreuse n. f., otite séreuse n. f., otite moyenne sécrétoire n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Otite caracterizada por um acúmulo de líquido na cavidade timpânica."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Os sintomas mais frequentes de otite serosa são uma perda de audição e uma sensação de orelha bloqueada. Ao contrário da otite média aguda, ela não causa dor. A otite média serosa pode, em particular, ser causada por um mau funcionamento do tronco auditivo, por um barotrauma ou por uma otite média aguda. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  },
+  "B": {
+    "Biópsia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "biopsy",
+        "anglès_associado": "",
+        "francès": "biopsie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > cirurgia, medicamento > oncologia, medicamento > Exames de laboratório",
+        "descrição": "Amostra in vivo de um fragmento de órgão ou tecido, com vistas a um exame microscópico ou uma análise bioquímica."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A biópsia visa, em particular, diagnosticar uma doença que afeta o tecido ou o órgão alvo. Também torna possível obter detalhes, se necessário, detalhes sobre a evolução de uma doença. A biópsia é comumente usada para estabelecer um diagnóstico de câncer. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "bronquiolite": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "bronchiolitis",
+        "anglès_associado": "",
+        "francès": "bronchiolite n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Pulmonologia, medicamento > pediatria",
+        "descrição": "Inflamação aguda de bronquíolos, de origem viral, resultando em desconforto respiratório e na maioria das vezes em bebês."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Os principais sinais de bronquiolite são a aceleração da frequência respiratória, impressão intercostal, expiração de assobios e tosse seca. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "bronquite": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "bronchitis",
+        "anglès_associado": "",
+        "francès": "bronchite n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Inflamação aguda ou crônica da mucosa dos brônquios, causando hipersecreção de muco e se manifestando em particular por uma tosse gordurosa e quinteusa, uma respiração curta e desconforto geral."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Às vezes, a bronquite é acompanhada por sinusite, faringite ou laringite. Pode ser de origem infecciosa, alérgica, parasita ou tóxica. A bronquite deve ser distinguida da bronquiolite, que é uma inflamação de bronquíolos. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Broncopnemopatia obstrutiva crônica": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "chronic obstructive pulmonary disease, COPD, chronic obstructive lung disease, chronic obstructive bronchopneumopathy",
+        "anglès_associado": "",
+        "francès": "bronchopneumopathie chronique obstructive n. f., BPCO n. f., maladie pulmonaire obstructive chronique n. f., MPOC n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > Pulmonologia",
+        "descrição": "Conjunto de doenças respiratórias que afetam os brônquios e os pulmões, que podem coexistir na mesma pessoa, que determinam nela uma insuficiência ventilatória obstrutiva."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A broncopnemopatia crônica crônica é uma condição de desenvolvimento lenta, cujos sintomas geralmente aparecem apenas para quarentena ou cinquenta anos, e uma das principais causas das quais é fumar. Ela toca os homens tanto quanto as mulheres. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Broncoscópio": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "bronchoscope",
+        "anglès_associado": "",
+        "francès": "bronchoscope n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "O endoscópio, na maioria das vezes flexível, usado para examinar os brônquios e a traquéia durante uma broncoscopia."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "O broncoscópio é introduzido por oral, nasal ou por uma abertura traqueal (por exemplo, após uma traqueotomia). Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Broncoscopia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "bronchoscopy",
+        "anglès_associado": "",
+        "francès": "bronchoscopie n. f., endoscopie bronchique n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Exploração visual dos bronchi e da traquéia realizada por meio de um broncoscópio."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A broncoscopia é indicada para detectar e extrair um corpo estranho do trato respiratório inferior, realizar drenagem ou amostra e tratar certas doenças brônquicas ou pulmonares. Esta folha faz parte do vocabulário da medicina e do vocabulário da oncologia."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "bócio": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "goiter, goitre",
+        "anglès_associado": "",
+        "francès": "goitre n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Hipertrofia difusa ou localizada da glândula tireóide que pode causar uma deformação da parte anterior do pescoço."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A falta de iodo, predisposição genética e gravidez são fatores que promovem o bócio. Este último não afeta necessariamente a operação da glândula tireóide. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "beliscando": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "disc space narrowing, DSN, disk space narrowing, disc narrowing, disk narrowing",
+        "anglès_associado": "",
+        "francès": "pincement discal n. m., tassement discal n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "O afinamento global ou localizado de um disco intervertebral, causando uma aproximação das vértebras e que pode causar atrito entre elas."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A pitada discal é frequentemente de origem postural ou traumática, mas também pode estar ligada ao envelhecimento e desgaste. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  },
+  "C": {
+    "coágulo sanguíneo": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "blood clot, clot",
+        "anglès_associado": "",
+        "francès": "caillot sanguin n. m., caillot de sang n. m., caillot n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Massa viscosa semi-sólida formada pela fibrina durante a coagulação do sangue."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "O coágulo sanguíneo é geralmente formado após uma lesão vascular. Seu treinamento permite que você evite hemorragia. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "cálculo": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "calculus",
+        "anglès_associado": "",
+        "francès": "calcul n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Concretion formando em um órgão oco, uma glândula ou um canal e que pode ser a causa de uma obstrução."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Um cálculo é formado pelo acúmulo de substâncias orgânicas e sais minerais. Falaremos, por exemplo, de cálculo salivar, cálculo biliar ou cálculo urinário. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "cardiomegalia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "cardiomegaly, megalocardia",
+        "anglès_associado": "",
+        "francès": "cardiomégalie n. f., hypertrophie cardiaque n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Anatomopatologia, medicamento > cardiologia",
+        "descrição": "Aumento anormal no volume do miocárdio."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A cardiomegalia não é uma doença em si; Este é um sinal que eleva a hipótese de um problema de saúde do coração. A pressão alta ou a coronaropatia pode causar cardiomegalia. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "catarata": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "cataract",
+        "anglès_associado": "",
+        "francès": "cataracte n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Condição ocular congênita ou adquirida caracterizada por uma opacificação da lente e/ou do cristalóide."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A catarata geralmente ocorre em pessoas com mais de 65 anos e é acompanhada por uma diminuição gradual da acuidade visual, geralmente ao longo de vários anos, que pode ir até a cegueira. Uma catarata avançada é facilmente reconhecida pelo fato de que a cor da pupila vai de preto a branca leitosa ou cinza. Geralmente, podemos remediar parcial ou completamente a catarata realizando cirurgia: a lente opacificada é removida e substituída por uma lente artificial. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "colesterol": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "cholesterol, cholesterin",
+        "anglès_associado": "",
+        "francès": "cholestérol n. m.",
+        "francès_contexte": "cholestérine n. f."
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "A substância lipídica de alimentos ou sintetizada pelo fígado, que entra na constituição da membrana plasmática e que intervém na formação de hormônios esteróides e ácidos biliares."
+      },
+      "notas": {
+        "informacoes_notas": [
+          ""
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Colesterolemia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "cholesterolemia, cholesterolaemia, cholesteremia, cholesteraemia, cholesterinemia",
+        "anglès_associado": "",
+        "francès": "cholestérolémie n. f., cholestérinémie n. f.",
+        "francès_contexte": "cholestérémie n. f."
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Nível de colesterol no sangue."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A colesterolemia é um indicador para avaliar o risco de aterosclerose. Quando a colesterolemia excede aproximadamente 2 gramas por litro, falamos de hipercolesterolemia, mas esse valor de referência pode variar um pouco, dependendo de diferentes fatores, como sexo e idade. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "cólica": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "colic",
+        "anglès_associado": "",
+        "francès": "colique n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "A dor viva geralmente ocorre na forma de acesso intercalada com períodos solitários e originária em um órgão abdominal."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Existem vários tipos de cólica, dependendo dos órgãos que os causam, por exemplo, cólica hepática, cólica nefrética ou cólica intestinal. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "cólica hepática": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "biliary colic",
+        "anglès_associado": "",
+        "francès": "colique hépatique n. f., colique biliaire n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "A dor continua até o hipocondo direito, irradiando para o ombro epigastral e o direito, causado pela presença de cálculos na vesícula biliar ou nos ductos biliares."
+      },
+      "notas": {
+        "informacoes_notas": [
+          ""
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Cólica intestinal": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "intestinal colic",
+        "anglès_associado": "",
+        "francès": "colique intestinale n. f., colique n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Dor abdominal causada por espasmos musculares do intestino, geralmente causados ​​pela oclusão intestinal."
+      },
+      "notas": {
+        "informacoes_notas": [
+          ""
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "cólica nefrética": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "renal colic",
+        "anglès_associado": "",
+        "francès": "colique néphrétique n. f., colique rénale n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "A dor viva foi sentida na região lombar, irradiando em direção à bexiga e aos órgãos genitais externos, mais frequentemente causados ​​pela obstrução dos ureteres por um cálculo urinário ou um coágulo sanguíneo."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A cólica nefrética geralmente se manifesta em um lado do corpo, afetado pela obstrução. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "concussão": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "brain concussion, concussion of the brain, cerebral concussion, concussion",
+        "anglès_associado": "",
+        "francès": "commotion cérébrale n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > neurologia, medicamento > medicina esportiva",
+        "descrição": "Shakening the Brain causado por um choque violento, direto ou indireto, o que leva a uma abolição temporária ou permanente das funções cerebrais, sem lesão orgânica visível."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A concussão ocorre quando o choque causa um movimento repentino da cabeça e o cérebro atinge as paredes. Entre seus possíveis sinais e sintomas estão a perda de consciência, confusão, vômito, visão, equilíbrio e problemas de memória, aumento da sensibilidade à luz e ruído, além de diminuir o pulso e a respiração. Esta folha faz parte do vocabulário uma linguagem saudável: vocabulário de enfermagem e vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "contratilidade ventricular": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "ventricular contractility",
+        "anglès_associado": "",
+        "francès": "contractilité ventriculaire n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Propriedade que os ventrículos cardíacos precisam contrair."
+      },
+      "notas": {
+        "informacoes_notas": [
+          ""
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "contusão": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "contusion",
+        "anglès_associado": "",
+        "francès": "contusion n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > trauma, medicamento > Hematologia e sorologia",
+        "descrição": "Lesão produzida por um golpe ou choque violento, sem que haja rasgo da pele ou fratura."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Uma contusão pode causar dor localizada no ponto de impacto, hematomas ou hematoma. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "cistite": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "cystitis",
+        "anglès_associado": "",
+        "francès": "cystite n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Inflamação aguda ou crônica da bexiga urinária, geralmente de origem bacteriana."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A cistite geralmente se manifesta pela dor durante a micção, Pollakiuria e Pyuria. Na grande maioria dos casos, ocorre quando as bactérias voltam para a bexiga, pela uretra. A cistite é muito mais frequente em mulheres do que nos homens, a uretra de ser mais curta. Riscos de cistite não tratada em evolução na pielonefrite. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  },
+  "P": {
+    "pedra no rim": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "renal calculus, kidney stone, nephrolith, nephritic calculus",
+        "anglès_associado": "",
+        "francès": "calcul rénal n. m., calcul néphrétique n. m.",
+        "francès_contexte": "pierre au rein n. f., néphrolithe n. f."
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Cálculo urinário formando -se em um rim."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Geralmente, as pedras renais são eliminadas pela micção sem causar sintomas. Alguns podem, no entanto, causar obstrução do ureter e causar dor ou sangramento. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Palpitação cardíaca": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "heart palpitation, palpitation",
+        "anglès_associado": "",
+        "francès": "palpitation cardiaque n. f., palpitation n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Percepção de batidas cardíacas rápidas ou irregulares."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A palpitação cardíaca pode ser causada por um distúrbio do ritmo cardíaco (taquicardia ou extrystole, por exemplo), mas também ser causado por um esforço violento, ansiedade ou pelo consumo de café ou nicotina. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "paresia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "paresis",
+        "anglès_associado": "",
+        "francès": "parésie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > neurologia, medicamento > Reabilitação funcional e reabilitação",
+        "descrição": "Paralisia leve ou parcial caracterizada por uma diminuição na capacidade de contrair um ou mais músculos, causando fraqueza muscular."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A péresia pode ser temporária ou permanente e geralmente não é acompanhada por uma perda de sensibilidade. Às vezes, evolui em paralisia completa e pode afetar, em particular, um membro (monopareia), três membros (triparesia), quatro membros (quadripares), a parte inferior do corpo (paraparesia) ou mesmo a metade direita ou esquerda do corpo (hemiparesia). A paresis flash será descrita como o tônus ​​muscular é reduzido e espástico, quando o tônus ​​muscular é aumentado. Esta folha faz parte do vocabulário de deficiências, distúrbios e situações de Handicap: palavras para falar sobre isso e o vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Parestesia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "paresthesia, paraesthesia",
+        "anglès_associado": "",
+        "francès": "paresthésie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > neurologia",
+        "descrição": "Transtorno da sensibilidade que é caracterizada pela percepção, em uma ou mais partes do corpo, formigamento, formigamento, queimaduras, coceira ou números geralmente não países e que aparecem na maioria das vezes espontaneamente."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A parestesia geralmente se manifesta em partes altamente inervadas do corpo, como dedos dos pés e pés, mas também é frequentemente sentida nos braços e pernas. A parestesia geralmente ocorre quando um nervo é temporariamente comprimido, por exemplo, quando você encontra as pernas por muito tempo. É então sem gravidade e é absorvido assim que as pernas forem limpas. It can however be the symptom of a deficiency or a lack (eg in case of hypoglycemia), a hormonal problem (eg in case of hyperthyroidism), a blood circulation disorder (e.g. in Raynaud syndrome), damage to the central nervous system (e.g. in the sclerosis in plates) or an impairment of the peripheral nervous system (eg in carpal tunnel syndrome), among outros. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "pneumotórax": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "pneumothorax",
+        "anglès_associado": "",
+        "francès": "pneumothorax n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Efusão ao ar na cavidade pleural, causando flacidez parcial ou completa pulmonar."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "O pneumotórax pode ser espontâneo, sua origem sendo desconhecida ou causada por uma doença pulmonar, um trauma ou um procedimento médico. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "psoríase": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "psoriasis",
+        "anglès_associado": "",
+        "francès": "psoriasis n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > dermatologia, medicamento > Semiologia e Patologia",
+        "descrição": "Dermatose crônica causada por uma proliferação excessiva de células epidérmicas, o que resulta no aparecimento de lesões eritematosquíticas, arredondadas ou ovais, bem circunscritas e variáveis."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A etiologia da psoríase é pouco conhecida, mas esse afeto da pele é geralmente de origem genética. Entre os sinais patognomônicos da doença, pode -se citar o sinal da mancha da vela e o sinal de orvalho sangrento. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Pielonefrite": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "pyelonephritis, nephropyelitis",
+        "anglès_associado": "",
+        "francès": "pyélonéphrite n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Inflamação aguda ou crônica da pelve renal e do rim, de origem bacteriana."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A pielonefrite geralmente se manifesta pela dor durante a micção, Pollakiuria, Pyuria, dor na região lombar ou pélvica e febre. A pielonefrite é mais frequente em mulheres do que nos homens e geralmente é causada por cistite não tratada. Também pode ocorrer em caso de obstrução do trato urinário ou, mais raramente, quando uma anomalia anatômica causa um refluxo da urina na pelve renal. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  },
+  "D": {
+    "degeneração": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "degeneration",
+        "anglès_associado": "",
+        "francès": "dégénérescence n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Alteração patológica progressiva de estruturas normais de uma célula, tecido ou órgão."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A degeneração pode levar à perda das capacidades funcionais de uma célula ou tecido e pode levar ao desaparecimento deles. Degeneração macular e esteatose hepática são exemplos de degeneração. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "dermatite": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "dermatitis",
+        "anglès_associado": "",
+        "francès": "dermatite n. f., dermite n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Inflamação da pele."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A maioria dos trabalhos de referência em medicina distingue a dermatite, definida como inflamação e eczema, definida como dermatose; O termo eczema é, no entanto, frequentemente usado no sentido de \"dermatite\" em documentação especializada. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "diverticulum": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "diverticulum",
+        "anglès_associado": "",
+        "francès": "diverticule n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > anatomia, medicamento > Semiologia e Patologia",
+        "descrição": "Cavidade natural ou patológica, na forma de uma bolsa, formando -se na parede de um órgão oco e se comunicando com ele."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "As divergículas patológicas são formadas com mais frequência no cólon, mas também podem ser observadas na bexiga, na uretra e no esôfago, entre outras. Para designar a inflamação de um ou mais desvios, o termo diverticulite é usado. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "diverticulite": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "diverticulitis",
+        "anglès_associado": "",
+        "francès": "diverticulite n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Inflamação de uma ou mais diverticula."
+      },
+      "notas": {
+        "informacoes_notas": [
+          ""
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "diverticulose": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "diverticulosis",
+        "anglès_associado": "",
+        "francès": "diverticulose n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Afeto caracterizado pela presença de vários divertículos patológicos em um órgão oco."
+      },
+      "notas": {
+        "informacoes_notas": [
+          ""
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "drenagem": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "drainage",
+        "anglès_associado": "",
+        "francès": "drainage n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Intervenção destinada a evacuar líquidos sépticos ou assépticos em retenção em uma organização."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A drenagem pode ser feita através de um tubo, um pavio de gaze, uma lâmina de borracha ou qualquer outro meio, impedindo temporariamente o fechamento completo do orifício de saída. Esta folha faz parte do vocabulário da cirurgia, vocabulário a uma linguagem de saúde: vocabulário de enfermagem e vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Disfagia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "dysphagia",
+        "anglès_associado": "",
+        "francès": "dysphagie n. f., trouble de la déglutition n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > Otorrhinolaryngology, medicamento > Gastroenterologia",
+        "descrição": "Transtorno de engolir o que resulta em desconforto durante a passagem dos alimentos, da boca ao estômago."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "As manifestações da disfagia são múltiplas, variando, por exemplo, de uma sensação de bloqueio na garganta até a impossibilidade de engolir sua saliva. A disfagia pode ocorrer em qualquer idade, mas é frequentemente observada em idosos. Em particular, pode ser causado por uma doença neurológica, por exemplo, um derrame ou mesmo por um tumor. Não deve ser disfagia confundida e odofagia, este último consistindo de uma sensação de dor durante a deglutição. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Dyspnea": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "dyspnea, dyspnoea, shortness of breath, breathlessness, air hunger",
+        "anglès_associado": "",
+        "francès": "dyspnée n. f., essoufflement n. m.",
+        "francès_contexte": "anhélation n. f."
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > Pulmonologia",
+        "descrição": "Dificuldade em respirar acompanhada por um sentimento de desconforto e opressão, o que resulta em um aumento na frequência ou amplitude dos movimentos respiratórios."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A dispnéia pode ser normal, após um esforço prolongado ou de alta altitude, mas também pode ser um sinal de uma doença broncopulmonar, otorrinolaringológica, neurológica ou cardíaca, por exemplo. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Disúria": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "dysuria",
+        "anglès_associado": "",
+        "francès": "dysurie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Transtorno da micitação caracterizado pela dor no momento da micção e, geralmente, com uma dificuldade em começar a urinar."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A disúria é mais frequentemente causada por uma infecção do trato urinário ou do sistema genital, por exemplo, cistite, pielonefrite, cervicite ou uretrite. A dor sentida ao urinar é mais frequentemente descrita como uma sensação de queimaduras intensas. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Doença de Alzheimer": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "Alzheimer's disease, AD, Alzheimer disease, AD, dementia of the Alzheimer type, DAT, Alzheimer dementia",
+        "anglès_associado": "",
+        "francès": "maladie d'Alzheimer n. f., MA n. f., alzheimer n. m.",
+        "francès_contexte": "démence de type Alzheimer n. f., DTA n. f., démence sénile de type Alzheimer n. f., DSTA n. f."
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > neurologia",
+        "descrição": "Doença degenerativa do sistema nervoso nervoso central, que se manifesta clinicamente por uma síndrome evolutiva de como afasia, apraxia, agnosia e perda de memória, anatomicamente por uma atrofia progressiva do córtex cerebral, e histologicamente pela presença, no cérebro, do amiloóide e do neurofilareno."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A doença de Alzheimer, que é a forma mais comum de demência degenerativa, geralmente aparece no final da vida (cerca de 70 anos) e evolui lentamente. No entanto, acontece que ocorre cedo, antes de 65 anos; Freqüentemente assume um caráter genético e geralmente experimenta uma evolução mais rápida. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  },
+  "E": {
+    "eczema": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "eczema",
+        "anglès_associado": "",
+        "francès": "eczéma n. m., exéma n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Dermatose inflamatória caracterizada em sua fase aguda e pruritica por eritema e edema, bem como, muitas vezes, pela formação de vesículas exsudativas cujos arranhões levam a uma desicenificação e um design da pele."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A hipersensibilidade imune e o contato com a pele com agentes alergênicos ou irritantes são frequentemente a causa do eczema. A dermatite atópica, a forma mais comum da doença, afeta principalmente pessoas com suscetibilidade genética a essa condição. A maioria dos trabalhos de referência em medicina distingue eczema, definida como dermatose e dermatite, definida como inflamação; O termo dermatite é, no entanto, frequentemente usado no sentido de \"eczema\" em documentação especializada. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Embolia pulmonar": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "pulmonary embolism, PE",
+        "anglès_associado": "",
+        "francès": "embolie pulmonaire n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Obstrução de um ou mais ramos do tronco pulmonar por um coágulo sanguíneo."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "O coágulo sanguíneo vem dos membros inferiores, da bacia ou do abdômen e migra pela veia inferior. A embolia pulmonar pode, em particular, causar infarto pulmonar, insuficiência cardíaca direita ou aumento da pressão arterial pulmonar. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "entorse": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "sprain",
+        "anglès_associado": "",
+        "francès": "entorse n. f.",
+        "francès_contexte": "foulure n. f."
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Lesão traumática de uma articulação devido à sua torção repentina e causando um alongamento ou um rasgo de um ligamento ou fibras musculares, sem deslocamento de superfícies articulares ou deslocamento."
+      },
+      "notas": {
+        "informacoes_notas": [
+          ""
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "efusão": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "effusion",
+        "anglès_associado": "",
+        "francès": "épanchement n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Presença de uma quantidade anormal de fluido em uma cavidade ou tecido natural."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Qualquer gás ou líquido (pus, sangue, linfa ou líquido sinovial, por exemplo) presente no corpo, pode formar um derrame. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Efusão intra -articular": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "joint effusion, intra-articular effusion, articular effusion",
+        "anglès_associado": "",
+        "francès": "épanchement intraarticulaire n. m., épanchement articulaire n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Reumatologia, medicamento > Semiologia e Patologia",
+        "descrição": "Efusão dentro de uma articulação."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Um derrame de líquido ou sangue sinovial, por exemplo, pode se formar dentro de uma articulação após o trauma ou operação. É também um sinal frequente de certas formas de osteoartrite e artrite. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Efusão pericárdica": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "pericardial effusion",
+        "anglès_associado": "",
+        "francès": "épanchement péricardique n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > cardiologia, medicamento > Semiologia e Patologia",
+        "descrição": "Efusão na cavidade pericárdica."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "O derrame pericárdico geralmente é fluido, mas pode ser excepcionalmente o gás. Um acúmulo de mais de 50 ml de líquido na cavidade pericárdica é geralmente considerado patológico. Efusão pericárdica é um sinal frequente de pericardite. Pode causar um carimbo cardíaco. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Efusão pleural": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "pleural effusion",
+        "anglès_associado": "",
+        "francès": "épanchement pleural n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > Pulmonologia",
+        "descrição": "Efusão na cavidade pleural."
+      },
+      "notas": {
+        "informacoes_notas": [
+          ""
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "eritema": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "erythema",
+        "anglès_associado": "",
+        "francès": "érythème n. m.",
+        "francès_contexte": "rougeur n. f."
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > dermatologia, medicamento > Semiologia e Patologia",
+        "descrição": "A pele de vermelhidão, localizada ou generalizada, causada por vasodilatação e desaparecimento na vitripultamento."
+      },
+      "notas": {
+        "informacoes_notas": [
+          ""
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Exame citobacteriológico da urina": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "urine culture",
+        "anglès_associado": "",
+        "francès": "examen cytobactériologique des urines n. m., ECBU n. m., examen cytobactériologique urinaire n. m., ECBU n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Exames de laboratório, medicamento > nefrologia e urologia",
+        "descrição": "O exame laboratorial destinado a diagnosticar uma infecção do trato urinário, identificando, na maioria das vezes sob o microscópio, as bactérias presentes em uma amostra de urina."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "O exame citobacteriológico da urina é geralmente prescrito quando os resultados de uma análise de urina revelam a presença de uma potencial infecção do trato urinário (por exemplo, cistite ou pielonefrite), ou quando uma pessoa tem sintomas como uma sensação de dor ou queimação durante a micção e um desejo frequente, ou sinais como urina preocupada ou urina. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "expectoração": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "expectoration",
+        "anglès_associado": "",
+        "francès": "expectoration n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > fisiologia, medicamento > Pulmonologia",
+        "descrição": "Expulsão pela boca das secreções das vias aéreas."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "O produto da expectativa é chamado Spit. No entanto, por metonímia, o termo expectoração é usado para designar o processo fisiológico de despejo de secreções e o produto expulso. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "EXTRASSTOLE": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "extrasystole, ES, premature systole, premature beat",
+        "anglès_associado": "",
+        "francès": "extrasystole n. f., ES n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Contração prematura do miocárdio, na maioria das vezes benigna, que altera a regularidade da freqüência cardíaca e que ocorre quando o sinal elétrico que desencadeia contrações cardíacas ocorre em outros lugares que no nó sinusal."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Podemos distinguir a extrástica ventricular, a extrástica atrial e a extrystole juncional, dependendo se o sinal elétrico que desencadeia a contração ocorre nos ventrículos cardíacos, nos átrios ou na junção dessas cavidades. Os sistemas de extratos podem ocorrer isoladamente ou repetidamente. Eles geralmente passam despercebidos, mas podem causar palpitações cardíacas, impressão de parada cardíaca e leve dor no peito. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "enema": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "enema",
+        "anglès_associado": "",
+        "francès": "lavement n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Injeção de uma preparação de líquido no reto, pelo ânus, para fins diagnósticos ou terapêuticos."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Às vezes, um enema é indicado para promover a evacuação de fezes em caso de constipação ou antes de uma colonoscopia ou cirurgia. Outros tipos de efeitos são usados ​​para estabelecer um diagnóstico ou administrar medicamentos. A lavagem e a lavagem não devem ser confundidas, que é a irrigação de um órgão oco ou uma cavidade natural por meio de uma sonda introduzida pelo nariz ou pela boca. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "edema": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "edema, oedema",
+        "anglès_associado": "",
+        "francès": "œdème n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Infiltração de serosidade excessiva e indolor em um tecido ou órgão, o que causa inchaço."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "O edema geralmente afeta o tecido conjuntivo subcutâneo ou submucoso. Anasarch, edema generalizado, é uma forma específica de edema. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "esplenomegalia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "splenomegaly, spleen enlargement, enlargement of the spleen, splenic enlargement",
+        "anglès_associado": "",
+        "francès": "splénomégalie n. f., hypertrophie splénique n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Aumento no volume do baço."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A esplenomegalia é um sinal presente em um grande número de distúrbios, como doenças infecciosas ou inflamatórias (malária, mononucleose, hepatite, por exemplo), hemopatias malignas (leucemia, linfoma, por exemplo) e certas formas de anemia. Raramente encontramos em uso nos termos megalosplénia e hipersplenia, mas estes não são mais atestados em documentação especializada recente. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  },
+  "F": {
+    "fratura": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "fracture, Fx",
+        "anglès_associado": "",
+        "francès": "fracture n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > ortopedia, medicamento > trauma",
+        "descrição": "Lesão que consiste em uma divisão óssea anormal, completa ou parcial."
+      },
+      "notas": {
+        "informacoes_notas": [
+          ""
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Fratura spiroides": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "spiral fracture",
+        "anglès_associado": "",
+        "francès": "fracture spiroïde n. f., fracture spirale n. f., fracture spiralée n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > trauma, medicamento > ortopedia",
+        "descrição": "Fratura formando uma linha de ruptura helicoidal, gerada por um movimento de torção."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A fratura spiroide geralmente ocorre na diafise. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "freqüência cardíaca": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "heart rhythm, cardiac rhythm",
+        "anglès_associado": "",
+        "francès": "rythme cardiaque n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > fisiologia, medicamento > cardiologia",
+        "descrição": "Maneira pela qual as contrações cardíacas se seguem."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A frequência cardíaca, que pode ser observada em um eletrocardiograma, é normalmente bastante constante, porque as contrações cardíacas de um coração saudável são geralmente regulares e coordenadas. A irregularidade prolongada da freqüência cardíaca (por exemplo, extrasystóis repetidos e frequentes) é frequentemente o sinal de um problema cardíaco. A frequência cardíaca deve ser distinguida da freqüência cardíaca, que corresponde ao número de contrações cardíacas por unidade de tempo. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "fricção pleural": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "pleural friction rub, pleural rub",
+        "anglès_associado": "",
+        "francès": "frottement pleural n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > Pulmonologia",
+        "descrição": "Ruído superficial perceptível à ausculta e pontuado pela respiração, produzido pelo contato da folha visceral e da folha parietal."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "O atrito pleural é geralmente percebido no início ou no limite superior de um pouco abundante de derrame pleural. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  },
+  "G": {
+    "gastrite": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "gastritis",
+        "anglès_associado": "",
+        "francès": "gastrite n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Inflamação aguda ou crônica da mucosa estomacal."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A gastrite pode, em particular, ser causada por estresse significativo, alergias, agentes infecciosos ou por consumo muito alto de agentes irritantes, como álcool e café. Geralmente se manifesta por pirose, frequentemente exacerbada após fazer uma refeição. Às vezes, é acompanhado por náusea e vômito, inchaço e anorexia, entre outros. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  },
+  "H": {
+    "hematoma": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "hematoma, haematoma",
+        "anglès_associado": "",
+        "francès": "hématome n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "A coleta de sangue circunscrita em um tecido."
+      },
+      "notas": {
+        "informacoes_notas": [
+          ""
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Hematoma subdural": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "subdural hematoma, SDH",
+        "anglès_associado": "",
+        "francès": "hématome sous-dural n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > trauma, medicamento > neurologia",
+        "descrição": "Hematoma intracraniano de origem traumática que se desenvolve entre o dura e o aracnóide."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Podemos distinguir o hematoma subdural agudo, cujos sintomas graves aparecem rapidamente após um trauma craniano significativo, do hematoma subdural crônico, que pode se manifestar gradualmente, semanas após o trauma frequentemente benigno. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Hematúria": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "hematuria, haematuria",
+        "anglès_associado": "",
+        "francès": "hématurie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Fisiopatologia, medicamento > nefrologia e urologia",
+        "descrição": "Programa de eritrócitos anormais na urina."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Diz -se que a hematúria é inicial quando o sangue aparece na urina no início da micção; terminal quando aparece no final da micção; e total quando aparece em toda a micção. A hematúria não é uma doença, mas um sinal cujas causas mais frequentes são cistite, pielonefrite, prostatite, cálculos (urinária e renal), um tumor maligno do aparelho genitarinarial (bexiga, rins, próstata, ureter) ou trauma (choque). Falaremos mais especificamente de hematúria macroscópica quando a hematúria for detectável a olho nu por causa do sangue que as cores urina em rosa, vermelho ou marrom e hematúria microscópica quando a hematúria não é detectável com os olhos nus e que é necessário realizar uma análise de urina para detectar a presença de eritrocianos. Esta folha faz parte do vocabulário da medicina e do vocabulário da oncologia."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "hepatomegalia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "hepatomegaly, liver hypertrophy",
+        "anglès_associado": "",
+        "francès": "hépatomégalie n. f., hypertrophie hépatique n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Aumento anormal no volume do fígado."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Pode ser um aumento no volume de todo o órgão ou parte do fígado (um lobo, por exemplo). A hepatomegalia pode, em particular, ser causada pelo consumo excessivo de álcool ou alimentos gordurosos, hemocromatose, insuficiência cardíaca ou hepatite. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Hiperóxia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "hyperoxia",
+        "anglès_associado": "",
+        "francès": "hyperoxie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Estado patológico caracterizado por um aumento na quantidade de dioxigênio nos tecidos de um órgão ou organismo."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Na terapêutica, a hiperóxia pode surgir da administração de dioxigênio durante anestesia geral, ressuscitação ou oxigenoterapia. A hiperóxia é geralmente a conseqüência da hiperoxemia. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "hipertrofia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "hypertrophy",
+        "anglès_associado": "",
+        "francès": "hypertrophie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Aumentou o volume de um órgão ou tecido, geralmente devido à dilatação das células que o compõem."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Hepatomegalia, adenomegalia e esplenomegalia correspondem a hipertrofias orgânicas. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "hipóxia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "hypoxia",
+        "anglès_associado": "",
+        "francès": "hypoxie n. f., hypoxie tissulaire n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Estado patológico caracterizado por uma diminuição na quantidade de dioxigênio nos tecidos de um órgão ou organismo."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A hipóxia é uma conseqüência frequente da hipoxemia. Também pode resultar de um distúrbio de circulação sanguínea (por exemplo, em caso de insuficiência cardíaca), a obstrução parcial ou completa de uma ou mais artérias ou a incapacidade das células dos tecidos de usar dioxigênio. Para designar hipóxia muito grave, o termo anóxia é usado. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  },
+  "I": {
+    "incontinência urinária": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "urinary incontinence, UI, bladder incontinence, incontinence of urine",
+        "anglès_associado": "",
+        "francès": "incontinence urinaire n. f., incontinence d'urine n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > nefrologia e urologia",
+        "descrição": "Confiança da urina involuntária, às vezes inconsciente, pelo meato urinário."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A incontinência urinária pode ocorrer em qualquer idade, mas é mais frequente em crianças e idosos. Existem diferentes tipos, incluindo incontinência pós-uso, Enresis, incontinência ao esforço, incontinência de transbordamento e incontinência pela imperalidade. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "insuficiência cardíaca": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "heart failure, HF, cardiac failure, CF, cardiac insufficiency, CI",
+        "anglès_associado": "",
+        "francès": "insuffisance cardiaque n. f., IC n. f., défaillance cardiaque n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Fisiopatologia, medicamento > cardiologia",
+        "descrição": "Incapacidade do coração de fornecer fluxo sanguíneo suficiente para atender às necessidades de energia do corpo."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A insuficiência cardíaca pode afetar a parte esquerda, a parte direita ou as duas partes do coração. Distinguimos a insuficiência cardíaca sistólica e a insuficiência cardíaca diastólica. Esta folha faz parte do vocabulário da cirurgia e do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  },
+  "L": {
+    "lavar": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "lavage, washing",
+        "anglès_associado": "",
+        "francès": "lavage n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Irrigação de um órgão oco ou uma cavidade natural por meio de uma sonda introduzida pelo nariz ou pela boca."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "O líquido usado para lavagem pode ser evacuado imediatamente com o conteúdo da cavidade irrigada ou ser recuperado para ser objeto de análises. Lavagem e enema não devem ser confundidos, que consiste na injeção, pelo ânus, de um líquido no reto. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "luxação": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "luxation, dislocation",
+        "anglès_associado": "",
+        "francès": "luxation n. f., dislocation n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > ortopedia, medicamento > Semiologia e Patologia",
+        "descrição": "Lesão músculo -esquelética resultante do deslocamento das extremidades dos ossos que formam uma articulação."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Uma luxação é geralmente causada por um choque ou movimento forçado. Os casos mais comuns de deslocamento são os do polegar, ombro e quadril. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Linfoma": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "lymphoma",
+        "anglès_associado": "",
+        "francès": "lymphome n. m.",
+        "francès_contexte": "hématosarcome n. m., lymphosarcome n. m."
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > oncologia",
+        "descrição": "Tumor, geralmente maligno, formado pela proliferação de células do tecido linfóide."
+      },
+      "notas": {
+        "informacoes_notas": [
+          ""
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  },
+  "M": {
+    "melanoma": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "melanoma",
+        "anglès_associado": "",
+        "francès": "mélanome n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > oncologia, medicamento > Anatomopatologia",
+        "descrição": "Tumor desenvolvido às custas dos melanócitos."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Embora os melanomas mais frequentemente se desenvolvam na pele, eles também podem aparecer nos olhos ou em qualquer membrana mucosa. Esta folha faz parte do vocabulário da medicina e do vocabulário da oncologia."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Menorragia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "menorrhagia, hypermenorrhea",
+        "anglès_associado": "",
+        "francès": "ménorragie n. f., hyperménorrhée n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Menstruação anormalmente abundante ou prolongada."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A menorragia implica uma perda de sangue total de mais de 80 ml ou sangramento, que dura mais de 7 dias. No entanto, a duração do ciclo menstrual não é afetada. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "metástase": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "metastasis, secondary tumour, secondary tumor, secondary growth, secondary cancer",
+        "anglès_associado": "",
+        "francès": "métastase n. f.",
+        "francès_contexte": "tumeur secondaire n. f., cancer secondaire n. m."
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > oncologia, medicamento > Semiologia e Patologia",
+        "descrição": "A lareira secundária de um tumor maligno, formado a partir de células cancerígenas que se destacaram de um tumor primitivo e depois migram por sangue ou linfático em direção a outra parte do corpo."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "As metástases podem ser descobertas a partir do diagnóstico inicial de câncer ou aparecer após um período mais ou menos longo de remissão. A estrutura histológica das metástases nem sempre é semelhante à do tumor primitivo. Esta folha faz parte do vocabulário da medicina e do vocabulário da oncologia."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "micção": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "urination disorder, micturition dirsorder",
+        "anglès_associado": "",
+        "francès": "trouble de la miction n. m., trouble mictionnel n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Transtorno ligado à evacuação da urina ou sua retenção."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Em particular, existem disúria, enurese e incontinência urinária. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  },
+  "R": {
+    "Refluxo gastroesofágico": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "gastroesophageal reflux, gastro-esophageal reflux, gastro-oesophageal reflux, GOR, esophageal reflux, oesophageal reflux, acid reflux, acid regurgitation, acid indigestion",
+        "anglès_associado": "",
+        "francès": "reflux gastro-œsophagien n. m., RGO n. m., reflux gastroœsophagien n. m., reflux gastrique n. m., reflux œsophagien n. m., reflux œsogastrique n. m., reflux œso-gastrique n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Semiologia e Patologia, medicamento > Gastroenterologia",
+        "descrição": "Refluxo de parte do teor de ácido do estômago no esôfago, geralmente ocorre em uma pessoa em uma posição alongada ou consumindo uma refeição e que mais frequentemente causa pirose."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "O refluxo gastroesofágico é geralmente causado pela falta de operação do esfíncter inferior do esôfago, mas certos fatores também podem contribuir para sua aparência, incluindo ganho de peso, alimentos gordurosos, consumo de álcool e tabaco, além de tomar determinados medicamentos. O refluxo gastroesofágico repetido pode causar esofagite, úlceras, estreitamento do esôfago, bem como o aparecimento de lesões pré -cancerosas. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "retinopatia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "retinopathy",
+        "anglès_associado": "",
+        "francès": "rétinopathie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Afeto degenerativo, não -inflamatório, retina."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A retinopatia geralmente se manifesta por danos aos vasos sanguíneos da retina e uma perda de visão progressiva. É provável que seja observado em pessoas com diabetes (retinopatia diabética) ou pressão alta (retinopatia hipertensiva). Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Rinite": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "rhinitis",
+        "anglès_associado": "",
+        "francès": "rhinite n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Otorrhinolaryngology, medicamento > infectiologia, medicamento > alergologia",
+        "descrição": "Inflamação aguda ou crônica das membranas mucosas da cavidade nasal e da parte nasal da faringe acompanhada por hipersecretion e fluxo."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A rinite alérgica e Coryza são a rinite mais frequentemente encontrada. Esta folha faz parte do vocabulário da farmácia e do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Rinorreia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "rhinorrhea, rhinorrhoea",
+        "anglès_associado": "",
+        "francès": "rhinorrhée n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Lento de um líquido seroso, mucoso ou purulento pelas narinas ou pela parte traseira das cavidades nasais."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A renina é tipicamente causada por rinite ou infecção viral. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  },
+  "T": {
+    "taquicardia": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "tachycardia, tachyrhythmia, tachysystole",
+        "anglès_associado": "",
+        "francès": "tachycardie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Aceleração da freqüência cardíaca, normalmente além de cem batidas por minuto."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A taquicardia pode ser causada por um distúrbio do ritmo cardíaco (por exemplo, taquicardia ventricular) ou não (por exemplo, alguma taquicardia sinusal ocorre durante um intenso esforço físico ou devido a uma emoção animada). Às vezes, passa despercebido, mas geralmente se manifesta por palpitações cardíacas e pode causar desconforto ou síncopes. A taquicardia deve ser distinguida da taquyaritmia, que é caracterizada por batimentos rápidos e irregulares. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "Tampo de tampo cardíaco": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "cardiac tamponade",
+        "anglès_associado": "",
+        "francès": "tamponnade cardiaque n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Compressão aguda do coração, especialmente de suas cavidades retas, causadas por derrame líquido abundante ou constituído rapidamente dentro do pericárdio e resultando em uma queda no fluxo cardíaco."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "O tamponamento cardíaco é tratado por uma punção de pericárdio, que pode ser seguida pela drenagem cirúrgica. Esta folha faz parte do vocabulário da cirurgia e do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "tumor": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "tumour, tumor, neoplasm",
+        "anglès_associado": "",
+        "francès": "tumeur n. f., néoplasme n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > Anatomopatologia, medicamento > oncologia",
+        "descrição": "Formação patológica de novo tecido, mais ou menos parecido com o tecido normal às custas de que ele se desenvolve, causado por uma multiplicação excessiva e descontrolada de células."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Existem dois tipos de tumores: o tumor benigno, estritamente localizado e composto por células normais, e o tumor maligno, invasivo e formado de células atípicas. Esta folha faz parte do vocabulário da medicina e do vocabulário da oncologia."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  },
+  "V": {
+    "vacina": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "vaccine",
+        "anglès_associado": "",
+        "francès": "vaccin n. m.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > medicina preventiva, medicamento > Terapêutico e assistência médica, biologia > imunologia",
+        "descrição": "Preparação antigênica que fornece à pessoa vacinada imunidade ativa contra certas doenças microbianas, virais ou parasitárias."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "Distinguimos vacinas profiláticas (preventivas) e vacinas terapêuticas (curativas). Esta folha faz parte do vocabulário uma linguagem saudável: vocabulário de cuidados de enfermagem, o vocabulário da farmácia e o vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "vacinação": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "vaccination",
+        "anglès_associado": "",
+        "francès": "vaccination n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "medicamento > medicina preventiva, medicamento > Terapêutico e assistência médica, biologia > imunologia",
+        "descrição": "Inoculação ou administração oral de um antígeno para induzir uma resposta ativa do sistema imunológico a um ebactérias, um vírus, um parasita ou uma toxina produzida por um agente infeccioso."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A vacinação pode ser praticada para fins preventivos ou curativos. Esta folha faz parte do vocabulário uma linguagem saudável: vocabulário de enfermagem e vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    },
+    "varicoseum": {
+      "dicionario": "vocabulaire-de-la-medecine-oqlf",
+      "categoria lexical da designação": "",
+      "complementos designação": {
+        "siglas": [],
+        "sinónimos absolutos": "",
+        "sinónimos complementares": [],
+        "denominação comercial": "",
+        "consultar outra entrada": ""
+      },
+      "traduções": {
+        "castellà": "",
+        "anglès": "varix, phlebectasia",
+        "anglès_associado": "",
+        "francès": "varice n. f., phlébectasie n. f.",
+        "francès_contexte": ""
+      },
+      "códigos alternativos": {
+        "símbolo": "",
+        "nome científico": "",
+        "número CAS": ""
+      },
+      "áreas temáticas": {
+        "área": "",
+        "descrição": "Dilatação permanente e patológica de uma veia superficial."
+      },
+      "notas": {
+        "informacoes_notas": [
+          "A insuficiência venosa é a principal causa de varizes. No entanto, vários fatores podem promover sua aparência: excesso de peso, exposição prolongada e repetidos ao calor, gravidez e estilo de vida sedentário, entre outros. Esta folha faz parte do vocabulário da medicina."
+        ],
+        "Informacao_enciclopedica": "",
+        "Abonacao": "",
+        "Numero_identificacao": "",
+        "Marcas_Tipograficas": [],
+        "remissiva": "",
+        "expandida": ""
+      }
+    }
+  }
+}
